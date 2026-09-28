@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch004",
+  "order": 4,
+  "title": "Das Haus und das Dorf",
+  "newWords": [
+    "de-0151", "de-0152", "de-0153", "de-0154", "de-0155",
+    "de-0156", "de-0157", "de-0158", "de-0159", "de-0160",
+    "de-0161", "de-0162", "de-0163", "de-0164", "de-0165",
+    "de-0166", "de-0167", "de-0168", "de-0169", "de-0170",
+    "de-0171", "de-0172", "de-0173", "de-0174", "de-0175",
+    "de-0176", "de-0177", "de-0178", "de-0179", "de-0180",
+    "de-0181", "de-0182", "de-0183", "de-0184", "de-0185",
+    "de-0186", "de-0187", "de-0188", "de-0189", "de-0190",
+    "de-0191", "de-0192", "de-0193", "de-0194", "de-0195",
+    "de-0196", "de-0197", "de-0198", "de-0199", "de-0200"
+  ],
+  "german": [
+    "Am Morgen bin ich in einem {{de-0161|Zimmer}}. Das {{de-0200|Bett}} ist klein, und bei ihm steht ein {{de-0199|Stuhl}} und ein {{de-0160|Tisch}}. Durch das {{de-0159|Fenster}} sehe ich den {{de-0166|Himmel}}.",
+    "Ich gehe durch die {{de-0158|Tür}} in den {{de-0183|Garten}}. Ein {{de-0165|Baum}} steht hier, und die {{de-0167|Sonne}} gibt {{de-0171|Licht}}. Der {{de-0169|Wind}} kommt vom {{de-0188|Wald}} über den {{de-0189|Platz}}.",
+    "Karl steht bei dem {{de-0170|Feuer}}. Eva gibt mir {{de-0164|Brot}}: das ist das {{de-0196|Essen}} für den Tag. Ich sehe das {{de-0174|Gesicht}} von Eva und höre die {{de-0173|Stimme}} von Karl.",
+    "Eva hat eine {{de-0179|Familie}}: eine {{de-0175|Mutter}}, einen {{de-0176|Vater}}, einen {{de-0177|Bruder}} und eine {{de-0178|Schwester}}. Sie leben in einem {{de-0184|Dorf}} bei dem {{de-0187|Fluss}}.",
+    "Mila ist ein {{de-0180|Mädchen}}. Ein {{de-0181|Junge}} aus der {{de-0182|Schule}} kommt zu ihr. Sie gehen auf die {{de-0162|Straße}} und dann zu dem {{de-0185|Berg}}. Vom Berg sehen sie das {{de-0186|Meer}}.",
+    "Ich habe wenig {{de-0163|Geld}}, aber ich habe einen {{de-0190|Ort}}, wo ich sein kann. Das ist keine {{de-0191|Sache}} von einem Tag. Der {{de-0192|Grund}} ist leicht zu verstehen: eine {{de-0193|Art}} von {{de-0195|Geschichte}} beginnt hier, und ich bin ein {{de-0153|Teil}} von ihr.",
+    "Karl gibt mir ein {{de-0172|Bild}}. Auf der {{de-0154|Seite}} von dem Buch ist ein {{de-0194|Beispiel}}: ein {{de-0151|Mensch}} mit einem {{de-0155|Kopf}}, einem {{de-0156|Herz}} und {{de-0157|Füßen}}. „Ein {{de-0152|Ding}} hat einen Namen“, sagt er, „und ein Mensch hat mehr.“",
+    "Der {{de-0198|Sommer}} geht zu Ende. {{de-0168|Regen}} kommt über den Wald. Der {{de-0197|Winter}} kommt auch, und ich bleibe hier."
+  ],
+  "english": [
+    "In the morning I am in a room. The bed is small, and beside it stand a chair and a table. Through the window I see the sky.",
+    "I go through the door into the garden. A tree stands here, and the sun gives light. The wind comes from the forest across the square.",
+    "Karl is standing by the fire. Eva gives me bread: that is the food for the day. I see Eva's face and hear Karl's voice.",
+    "Eva has a family: a mother, a father, a brother and a sister. They live in a village by the river.",
+    "Mila is a girl. A boy from the school comes to her. They walk onto the street and then to the mountain. From the mountain they see the sea.",
+    "I have little money, but I have a place where I can be. This is not a matter of one day. The reason is easy to understand: a kind of story begins here, and I am a part of it.",
+    "Karl gives me a picture. On the page of the book there is an example: a person with a head, a heart and feet. \"A thing has a name,\" he says, \"and a person has more.\"",
+    "The summer is coming to an end. Rain comes over the forest. The winter is coming too, and I am staying here."
+  ],
+  "grammar": {
+    "title": "Every noun carries its gender — learn them together",
+    "body": "German nouns are der, die or das, and the article is not guessable from meaning: der Tisch but die Tür and das Fenster, all ordinary objects. Always store the article with the word, never the bare noun. Two soft patterns worth knowing: nouns ending in -e are usually die, and nouns ending in -chen are always das (das Mädchen, even though a girl is female).",
+    "examples": [
+      { "de": "der Tisch, die Tür, das Fenster", "en": "the table, the door, the window" },
+      { "de": "die Sonne, die Straße, die Stimme", "en": "the sun, the street, the voice (all -e, all die)" },
+      { "de": "das Mädchen", "en": "the girl (-chen, so das)" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0158", "exampleDe": "Ich gehe durch die ___ in den Garten.", "exampleEn": "I go through the door into the garden." },
+    { "wordId": "de-0174", "exampleDe": "Ich sehe das ___ von Eva.", "exampleEn": "I see Eva's face." },
+    { "wordId": "de-0192", "exampleDe": "Der ___ ist leicht zu verstehen.", "exampleEn": "The reason is easy to understand." },
+    { "wordId": "de-0153", "exampleDe": "Ich bin ein ___ von der Geschichte.", "exampleEn": "I am a part of the story." },
+    { "wordId": "de-0151", "exampleDe": "Ein ___ hat einen Kopf und ein Herz.", "exampleEn": "A person has a head and a heart." },
+    { "wordId": "de-0190", "exampleDe": "Ich habe einen ___, wo ich sein kann.", "exampleEn": "I have a place where I can be." },
+    { "wordId": "de-0191", "exampleDe": "Das ist keine ___ von einem Tag.", "exampleEn": "That is not a matter of one day." }
+  ],
+  "tip": "Fifty nouns at once, and almost no new verbs — that is deliberate. This is the chapter where the world around Jan gets names, and naming things is the cheapest German you will ever learn. Say each one with its article out loud: der Tisch, die Tür, das Fenster.",
+  "showCounter": true
+}

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0f766e" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#080d0c" media="(prefers-color-scheme: dark)" />
+    <title>German Frequency Reader</title>
+    <script>
+      // Apply saved theme before first paint to avoid a flash.
+      try {
+        var s = JSON.parse(localStorage.getItem("gfr:settings:v1") || "{}");
+        if (s.theme === "dark" || s.theme === "light") {
+          document.documentElement.dataset.theme = s.theme;
+        }
+        if (s.fontSize) {
+          document.documentElement.dataset.fontsize = s.fontSize;
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

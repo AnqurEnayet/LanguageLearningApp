@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch017",
+  "order": 17,
+  "title": "Allein im Keller",
+  "newWords": [
+    "de-0801", "de-0802", "de-0803", "de-0804", "de-0805",
+    "de-0806", "de-0807", "de-0808", "de-0809", "de-0810",
+    "de-0811", "de-0812", "de-0813", "de-0814", "de-0815",
+    "de-0816", "de-0817", "de-0818", "de-0819", "de-0820",
+    "de-0821", "de-0822", "de-0823", "de-0824", "de-0825",
+    "de-0826", "de-0827", "de-0828", "de-0829", "de-0830",
+    "de-0831", "de-0832", "de-0833", "de-0834", "de-0835",
+    "de-0836", "de-0837", "de-0838", "de-0839", "de-0840",
+    "de-0841", "de-0842", "de-0843", "de-0844", "de-0845",
+    "de-0846", "de-0847", "de-0848", "de-0849", "de-0850"
+  ],
+  "german": [
+    "Karl kann nicht arbeiten. Ich {{de-0839|wohne}} im Haus und mache die Arbeit allein. Im {{de-0827|Keller}} steht ein {{de-0814|Ofen}} aus {{de-0807|Eisen}}.",
+    "Ich gehe über die {{de-0826|Treppe}} in den Keller. Eine {{de-0825|Leiter}} steht an der Wand, und an der {{de-0828|Decke}} ist eine {{de-0831|Lampe}}. Ich nehme eine {{de-0832|Kerze}}.",
+    "Im {{de-0829|Schrank}} und auf dem {{de-0830|Regal}} liegen Werkzeuge: ein {{de-0824|Hammer}}, ein {{de-0823|Nagel}}, ein {{de-0822|Seil}}, eine {{de-0836|Schere}}, ein {{de-0837|Faden}} und eine {{de-0838|Nadel}}.",
+    "Ich {{de-0850|repariere}} den Tisch aus {{de-0806|Holz}}. {{de-0812|Staub}} liegt auf dem Boden, und {{de-0813|Rauch}} kommt aus dem Ofen. {{de-0811|Sand}} ist in der Ecke.",
+    "In der Küche stehen ein {{de-0815|Topf}}, ein {{de-0816|Löffel}}, eine {{de-0817|Gabel}} und eine {{de-0818|Flasche}}. Ich wasche mich mit {{de-0834|Seife}} und einem {{de-0835|Handtuch}} und sehe mich im {{de-0833|Spiegel}}.",
+    "Mein {{de-0801|Hemd}} ist alt, meine {{de-0802|Hose}} auch. Eva gibt mir einen {{de-0803|Mantel}} und eine {{de-0804|Jacke}} aus gutem {{de-0805|Stoff}}.",
+    "Ich packe den Käse in einen {{de-0819|Korb}}, eine {{de-0820|Kiste}} und einen {{de-0821|Sack}}. Dann fahre ich in die Stadt und {{de-0842|verkaufe}} alles. Die Leute {{de-0841|bezahlen}} gut.",
+    "Ich {{de-0844|erhalte}} Geld und {{de-0845|sende}} einen Brief an Karl. Ein Mann will das Haus {{de-0840|mieten}}, aber ich sage nein.",
+    "Ein Kunde {{de-0843|schenkt}} mir ein Stück aus {{de-0810|Metall}}: nicht {{de-0808|Gold}} und nicht {{de-0809|Silber}}, aber schön. Ich {{de-0846|verstecke}} es im Schrank.",
+    "Am Abend {{de-0847|erscheint}} der Arzt wieder im Dorf. Dann {{de-0848|verschwindet}} er. Der Tag {{de-0849|endet}} ohne Antwort."
+  ],
+  "english": [
+    "Karl cannot work. I live in the house and do the work alone. In the cellar stands a stove made of iron.",
+    "I go down the stairs into the cellar. A ladder stands against the wall, and on the ceiling there is a lamp. I take a candle.",
+    "In the cupboard and on the shelf lie tools: a hammer, a nail, a rope, a pair of scissors, a thread and a needle.",
+    "I repair the table made of wood. Dust lies on the floor, and smoke comes out of the stove. Sand is in the corner.",
+    "In the kitchen stand a pot, a spoon, a fork and a bottle. I wash myself with soap and a towel and look at myself in the mirror.",
+    "My shirt is old, my trousers too. Eva gives me a coat and a jacket of good fabric.",
+    "I pack the cheese into a basket, a crate and a sack. Then I drive into the city and sell everything. The people pay well.",
+    "I receive money and send a letter to Karl. A man wants to rent the house, but I say no.",
+    "A customer gives me a piece of metal as a present: not gold and not silver, but beautiful. I hide it in the cupboard.",
+    "In the evening the doctor appears in the village again. Then he disappears. The day ends without an answer."
+  ],
+  "grammar": {
+    "title": "aus for what something is made of",
+    "body": "To say what a thing is made of, German uses aus with the dative — the same aus that means 'out of'. The material takes no article: ein Tisch aus Holz, not aus dem Holz. This is one of the most reliable small patterns in the language.",
+    "examples": [
+      { "de": "ein Ofen aus Eisen", "en": "a stove made of iron" },
+      { "de": "ein Tisch aus Holz", "en": "a table made of wood" },
+      { "de": "eine Jacke aus gutem Stoff", "en": "a jacket of good fabric" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0839", "exampleDe": "Ich ___ im Haus und mache die Arbeit allein.", "exampleEn": "I live in the house and do the work alone." },
+    { "wordId": "de-0850", "exampleDe": "Ich ___ den Tisch aus Holz.", "exampleEn": "I repair the table made of wood." },
+    { "wordId": "de-0846", "exampleDe": "Ich ___ es im Schrank.", "exampleEn": "I hide it in the cupboard." },
+    { "wordId": "de-0844", "exampleDe": "Ich ___ Geld und sende einen Brief.", "exampleEn": "I receive money and send a letter." },
+    { "wordId": "de-0848", "exampleDe": "Der Arzt erscheint und dann ___ er.", "exampleEn": "The doctor appears and then he disappears." },
+    { "wordId": "de-0843", "exampleDe": "Ein Kunde ___ mir ein Stück Metall.", "exampleEn": "A customer gives me a piece of metal as a present." },
+    { "wordId": "de-0840", "exampleDe": "Ein Mann will das Haus ___.", "exampleEn": "A man wants to rent the house." },
+    { "wordId": "de-0826", "exampleDe": "Ich gehe über die ___ in den Keller.", "exampleEn": "I go down the stairs into the cellar." }
+  ],
+  "tip": "Fifty words for things you can hold. This is also the first chapter where Jan runs everything himself — and the doctor appears and vanishes in the last line without explaining anything.",
+  "showCounter": true
+}

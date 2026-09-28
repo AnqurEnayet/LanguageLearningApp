@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch009",
+  "order": 9,
+  "title": "Ein Zimmer mehr",
+  "newWords": [
+    "de-0401", "de-0402", "de-0403", "de-0404", "de-0405",
+    "de-0406", "de-0407", "de-0408", "de-0409", "de-0410",
+    "de-0411", "de-0412", "de-0413", "de-0414", "de-0415",
+    "de-0416", "de-0417", "de-0418", "de-0419", "de-0420",
+    "de-0421", "de-0422", "de-0423", "de-0424", "de-0425",
+    "de-0426", "de-0427", "de-0428", "de-0429", "de-0430",
+    "de-0431", "de-0432", "de-0433", "de-0434", "de-0435",
+    "de-0436", "de-0437", "de-0438", "de-0439", "de-0440",
+    "de-0441", "de-0442", "de-0443", "de-0444", "de-0445",
+    "de-0446", "de-0447", "de-0448", "de-0449", "de-0450"
+  ],
+  "german": [
+    "Ich muss früh {{de-0403|aufstehen}}. Die Sonne {{de-0422|scheint}}, und es {{de-0423|regnet}} nicht mehr. Es kann jetzt nicht mehr {{de-0424|schneien}}: der Winter will {{de-0405|aufhören}}.",
+    "Wir wollen {{de-0404|anfangen}}, ein Zimmer zu {{de-0419|bauen}}. Karl {{de-0428|erklärt}} den Plan und {{de-0429|beschreibt}} jeden Schritt. Er {{de-0430|wiederholt}} alles, weil ich langsam bin.",
+    "Ich {{de-0414|steige}} auf den Baum und {{de-0415|falle}} nicht. Mila {{de-0416|springt}} über den Stein. Im Sommer {{de-0417|schwimmen}} wir im Fluss.",
+    "Das Brot {{de-0410|schmeckt}} gut und {{de-0411|riecht}} nach Feuer. Das Zimmer {{de-0407|gehört}} mir jetzt, und der Stuhl {{de-0408|passt}} an den Tisch. Das Haus {{de-0409|gefällt}} mir.",
+    "Karl {{de-0426|ruft}} meinen Namen. Dann {{de-0427|schweigt}} er. Die Stimme {{de-0425|klingt}} müde. „Ich will dich nicht {{de-0446|stören}}“, sagt er.",
+    "„Du musst {{de-0432|entscheiden}}“, sagt Eva. „{{de-0433|Wähle}} einen Weg.“ Ich {{de-0437|zweifle}}, aber ich {{de-0436|vertraue}} ihr. Sie {{de-0434|erlaubt}} mir zu bleiben, und ich {{de-0435|verspreche}} ein Jahr.",
+    "Ich {{de-0442|erinnere}} mich an den ersten Tag und {{de-0443|erkenne}} das Haus fast nicht mehr: ein neues Zimmer ist {{de-0444|entstanden}}. Die Arbeit ist mir {{de-0445|gelungen}}.",
+    "Ein Jahr {{de-0439|dauert}} lange. Ich {{de-0440|beobachte}} die Leute und {{de-0441|bemerke}}, dass ich mich {{de-0450|gewöhne}}. Die alte Regel {{de-0438|gilt}} nicht mehr.",
+    "Ich will das Dorf nicht {{de-0401|verlassen}}. Als ich {{de-0402|ankam}}, war alles fremd; jetzt kann ich {{de-0431|vergleichen}}. Ich muss nicht mehr {{de-0418|reisen}}.",
+    "Der Baum {{de-0420|wächst}}. Das Feuer {{de-0421|brennt}}. Der Wind {{de-0412|dreht}} sich, und das Papier {{de-0413|bewegt}} sich auf dem Tisch. Karl {{de-0448|führt}} mich in den Garten, und ich {{de-0449|folge}} ihm.",
+    "Eva sagt, dass ich gesund {{de-0406|aussehe}}. „Die Sprache hat dich {{de-0447|gerettet}}“, sagt sie, und sie hat recht."
+  ],
+  "english": [
+    "I have to get up early. The sun is shining, and it is not raining any more. It cannot snow now either: the winter wants to stop.",
+    "We want to start building a room. Karl explains the plan and describes every step. He repeats everything, because I am slow.",
+    "I climb the tree and do not fall. Mila jumps over the stone. In summer we swim in the river.",
+    "The bread tastes good and smells of fire. The room belongs to me now, and the chair fits at the table. I like the house.",
+    "Karl calls my name. Then he falls silent. His voice sounds tired. \"I do not want to disturb you,\" he says.",
+    "\"You must decide,\" says Eva. \"Choose a way.\" I doubt, but I trust her. She allows me to stay, and I promise a year.",
+    "I remember the first day and hardly recognise the house any more: a new room has come into being. The work has succeeded for me.",
+    "A year lasts a long time. I watch the people and notice that I am getting used to it. The old rule no longer holds.",
+    "I do not want to leave the village. When I arrived, everything was strange; now I can compare. I do not have to travel any more.",
+    "The tree grows. The fire burns. The wind turns, and the paper moves on the table. Karl leads me into the garden, and I follow him.",
+    "Eva says that I look healthy. \"The language saved you,\" she says, and she is right."
+  ],
+  "grammar": {
+    "title": "Separable verbs — the prefix flies to the end",
+    "body": "Verbs like aufstehen, anfangen and aussehen split in a main clause: the prefix detaches and lands at the very end. In an infinitive or after a subordinating conjunction the verb stays whole, which is why the story shows these verbs mostly in those forms. Until the prefix arrives, you do not actually know what the verb means — so read to the end of the sentence.",
+    "examples": [
+      { "de": "Ich stehe früh auf.", "en": "I get up early. (prefix auf at the end)" },
+      { "de": "Ich muss früh aufstehen.", "en": "I have to get up early. (infinitive stays whole)" },
+      { "de": "Eva sagt, dass ich gesund aussehe.", "en": "Eva says that I look healthy. (after dass, whole and last)" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0403", "exampleDe": "Ich muss früh ___.", "exampleEn": "I have to get up early." },
+    { "wordId": "de-0432", "exampleDe": "Du musst ___ und einen Weg wählen.", "exampleEn": "You must decide and choose a way." },
+    { "wordId": "de-0436", "exampleDe": "Ich zweifle, aber ich ___ ihr.", "exampleEn": "I doubt, but I trust her." },
+    { "wordId": "de-0442", "exampleDe": "Ich ___ mich an den ersten Tag.", "exampleEn": "I remember the first day." },
+    { "wordId": "de-0450", "exampleDe": "Ich bemerke, dass ich mich ___.", "exampleEn": "I notice that I am getting used to it." },
+    { "wordId": "de-0407", "exampleDe": "Das Zimmer ___ mir jetzt.", "exampleEn": "The room belongs to me now." },
+    { "wordId": "de-0409", "exampleDe": "Das Haus ___ mir.", "exampleEn": "I like the house." },
+    { "wordId": "de-0401", "exampleDe": "Ich will das Dorf nicht ___.", "exampleEn": "I do not want to leave the village." }
+  ],
+  "tip": "Nine chapters in, Jan has 450 words and a room of his own. Notice what the last line can do that chapter 1 could not: Eva says something about him, in a subordinate clause, and he understands it without help.",
+  "showCounter": true
+}

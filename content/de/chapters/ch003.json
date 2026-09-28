@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch003",
+  "order": 3,
+  "title": "Mein Name",
+  "newWords": [
+    "de-0101", "de-0102", "de-0103", "de-0104", "de-0105",
+    "de-0106", "de-0107", "de-0108", "de-0109", "de-0110",
+    "de-0111", "de-0112", "de-0113", "de-0114", "de-0115",
+    "de-0116", "de-0117", "de-0118", "de-0119", "de-0120",
+    "de-0121", "de-0122", "de-0123", "de-0124", "de-0125",
+    "de-0126", "de-0127", "de-0128", "de-0129", "de-0130",
+    "de-0131", "de-0132", "de-0133", "de-0134", "de-0135",
+    "de-0136", "de-0137", "de-0138", "de-0139", "de-0140",
+    "de-0141", "de-0142", "de-0143", "de-0144", "de-0145",
+    "de-0146", "de-0147", "de-0148", "de-0149", "de-0150"
+  ],
+  "german": [
+    "{{de-0107|Seit}} einem {{de-0141|Monat}} {{de-0149|übe}} ich am {{de-0142|Abend}}. Ich {{de-0145|beginne}} mit einem {{de-0130|Buch}} und lese den {{de-0150|ersten}} {{de-0132|Satz}} {{de-0116|wieder}} und wieder, {{de-0108|bis}} ich ihn {{de-0146|verstehe}}.",
+    "{{de-0114|Gestern}} konnte ich nicht fragen, {{de-0111|wo}} ich bin. {{de-0113|Heute}} ist es {{de-0129|möglich}}, und das ist {{de-0128|wichtig}}.",
+    "Ich sage: „Mein {{de-0135|Name}} ist Jan.“ Der Mann sagt: „Karl.“ Die Frau sagt: „Eva.“ {{de-0105|Vor}} einem Monat hatte ich {{de-0123|wenig}} Wörter und keine {{de-0133|Frage}}. Jetzt habe ich eine {{de-0134|Antwort}}.",
+    "Das Kind vom Wasser ist jetzt mein {{de-0136|Freund}}. Es fragt mich: „{{de-0110|Warum}} übst du immer?“ Ich sage: „{{de-0102|Ohne}} die {{de-0131|Sprache}} bin ich {{de-0104|unter}} den Leuten und nicht {{de-0106|zwischen}} ihnen.“",
+    "Der Weg ist schwer, {{de-0118|fast}} zu schwer. {{de-0120|Zwar}} {{de-0148|brauche}} ich {{de-0122|mehr}} {{de-0139|Stunden}}, als ich habe, {{de-0121|doch}} die {{de-0137|Arbeit}} geht {{de-0101|durch}} das {{de-0138|Leben}} und nicht {{de-0103|gegen}} es.",
+    "{{de-0112|Wann}} ich übe, ist {{de-0125|meine eigene}} Frage. {{de-0117|Vielleicht}} ist der {{de-0143|Anfang}} {{de-0127|falsch}} und das {{de-0144|Ende}} {{de-0126|richtig}}. {{de-0109|Um}} mich ist eine Sprache, und {{de-0119|genug}} Wörter {{de-0147|bedeuten}} eine Welt. In einer {{de-0140|Woche}} beginne ich wieder, und {{de-0115|morgen}} ist der Satz {{de-0124|ganz}} leicht."
+  ],
+  "english": [
+    "For a month I have been practising in the evening. I begin with a book and read the first sentence again and again, until I understand it.",
+    "Yesterday I could not ask where I am. Today it is possible, and that matters.",
+    "I say: \"My name is Jan.\" The man says: \"Karl.\" The woman says: \"Eva.\" A month ago I had few words and no question. Now I have an answer.",
+    "The child from the water is my friend now. It asks me: \"Why do you always practise?\" I say: \"Without the language I am beneath the people and not among them.\"",
+    "The way is hard, almost too hard. I do admittedly need more hours than I have, yet the work goes through life and not against it.",
+    "When I practise is my own question. Perhaps the beginning is wrong and the end is right. Around me is a language, and enough words mean a world. In a week I will begin again, and tomorrow the sentence will be quite easy."
+  ],
+  "grammar": {
+    "title": "Why the verb keeps moving",
+    "body": "German puts the conjugated verb second in a normal statement — but 'second' counts whole chunks, not words, so opening with a time phrase pushes the subject behind the verb. After conjunctions like 'dass' and 'bis', the verb drops to the very end instead.",
+    "examples": [
+      { "de": "Ich übe am Abend.", "en": "I practise in the evening." },
+      { "de": "Seit einem Monat übe ich am Abend.", "en": "For a month I have practised in the evening. (verb still second; the subject moves behind it)" },
+      { "de": "…, bis ich ihn verstehe.", "en": "…until I understand it. (verb at the very end)" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0146", "exampleDe": "Ich lese den Satz wieder, bis ich ihn ___.", "exampleEn": "I read the sentence again until I understand it." },
+    { "wordId": "de-0148", "exampleDe": "Ich ___ mehr Stunden, als ich habe.", "exampleEn": "I need more hours than I have." },
+    { "wordId": "de-0147", "exampleDe": "Genug Wörter ___ eine Welt.", "exampleEn": "Enough words mean a world." },
+    { "wordId": "de-0145", "exampleDe": "Ich ___ mit einem Buch.", "exampleEn": "I begin with a book." },
+    { "wordId": "de-0107", "exampleDe": "___ einem Monat übe ich am Abend.", "exampleEn": "For a month I have been practising in the evening." },
+    { "wordId": "de-0121", "exampleDe": "Ich brauche mehr Stunden, ___ die Arbeit geht durch das Leben.", "exampleEn": "I need more hours, yet the work goes through life." },
+    { "wordId": "de-0120", "exampleDe": "___ ist der Weg schwer, aber er geht durch das Leben.", "exampleEn": "The way is admittedly hard, but it goes through life." },
+    { "wordId": "de-0135", "exampleDe": "Mein ___ ist Jan.", "exampleEn": "My name is Jan." }
+  ],
+  "tip": "The question he could not ask in chapter 2 is the first thing he asks here — the word Name only exists from rank 135. Three chapters in, the people who took him in finally have names: Karl and Eva.",
+  "showCounter": true
+}

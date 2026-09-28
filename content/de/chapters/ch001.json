@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch001",
+  "order": 1,
+  "title": "Ich bin hier",
+  "newWords": [
+    "de-0001", "de-0002", "de-0003", "de-0004", "de-0005",
+    "de-0006", "de-0007", "de-0008", "de-0009", "de-0010",
+    "de-0011", "de-0012", "de-0013", "de-0014", "de-0015",
+    "de-0016", "de-0017", "de-0018", "de-0019", "de-0020",
+    "de-0021", "de-0022", "de-0023", "de-0024", "de-0025",
+    "de-0026", "de-0027", "de-0028", "de-0029", "de-0030",
+    "de-0031", "de-0032", "de-0033", "de-0034", "de-0035",
+    "de-0036", "de-0037", "de-0038", "de-0039", "de-0040",
+    "de-0041", "de-0042", "de-0043", "de-0044", "de-0045",
+    "de-0046", "de-0047", "de-0048", "de-0049", "de-0050"
+  ],
+  "german": [
+    "{{de-0009|Ich}} {{de-0005|bin}} {{de-0048|hier}}, {{de-0003|und}} ich {{de-0032|kann}} {{de-0012|nicht}} {{de-0042|sagen}}, {{de-0036|was}} ich {{de-0030|sehe}}. {{de-0001|Der}} {{de-0027|Tag}} ist {{de-0028|gut}}. Ich sehe {{de-0006|ein}} {{de-0029|Haus}}, und {{de-0010|das}} Haus ist {{de-0013|von}} einem {{de-0025|Mann}} und einer {{de-0026|Frau}}.",
+    "Ich {{de-0022|gehe}} {{de-0007|zu}} dem Haus. {{de-0002|Die}} Frau sieht mich und sagt: „{{de-0024|Wie}} geht {{de-0015|es}} dir?“ Ich {{de-0008|habe}} {{de-0044|nur}} {{de-0049|Zeit}} {{de-0018|für}} einen Tag, {{de-0021|aber}} ich sage {{de-0023|ja}}.",
+    "Der Mann {{de-0041|macht}} das Haus {{de-0017|auf}}. „{{de-0037|Wenn}} {{de-0039|du}} hier bist“, sagt {{de-0019|er}}, „kannst du sehen, was {{de-0035|wir}} machen.“",
+    "{{de-0011|Sie}} machen das {{de-0046|schon}} ein {{de-0050|Jahr}}. Die Frau sagt: „{{de-0016|Auch}} du kannst das machen, wenn du Zeit hast.“",
+    "„Ja“, sage ich. „Ich {{de-0031|werde}} {{de-0043|noch}} hier sein.“ Der Mann sieht {{de-0033|sich}} das Haus {{de-0034|an}}. {{de-0038|Als}} ich {{de-0014|mit}} ihm {{de-0004|in}} das Haus gehe, ist es {{de-0020|so}}: {{de-0045|aus}} einem Tag wird ein Jahr. Ich sage mir, {{de-0040|dass}} das {{de-0047|sehr}} gut ist."
+  ],
+  "english": [
+    "I am here, and I cannot say what I see. The day is good. I see a house, and the house belongs to a man and a woman.",
+    "I walk to the house. The woman sees me and says: \"How are you?\" I only have time for one day, but I say yes.",
+    "The man opens the house. \"If you are here,\" he says, \"you can see what we do.\"",
+    "They have been doing it for a year already. The woman says: \"You can do it too, if you have time.\"",
+    "\"Yes,\" I say. \"I will still be here.\" The man looks at the house. As I go into the house with him, it is like this: one day turns into a year. I tell myself that this is very good."
+  ],
+  "grammar": {
+    "title": "sein and haben — the two verbs everything rests on",
+    "body": "These two carry more German sentences than any others, and both are irregular, so learn the forms outright rather than by rule. Note also that German has only one present tense: 'ich gehe' means both 'I go' and 'I am going'.",
+    "examples": [
+      { "de": "ich bin, du bist, er/sie/es ist, wir sind", "en": "I am, you are, he/she/it is, we are" },
+      { "de": "ich habe, du hast, er/sie/es hat, wir haben", "en": "I have, you have, he/she/it has, we have" },
+      { "de": "Ich habe nur Zeit für einen Tag.", "en": "I only have time for one day." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0005", "exampleDe": "Der Tag ___ gut.", "exampleEn": "The day is good." },
+    { "wordId": "de-0008", "exampleDe": "Ich ___ nur Zeit für einen Tag.", "exampleEn": "I only have time for one day." },
+    { "wordId": "de-0032", "exampleDe": "Du ___ sehen, was wir machen.", "exampleEn": "You can see what we do." },
+    { "wordId": "de-0031", "exampleDe": "Aus einem Tag ___ ein Jahr.", "exampleEn": "One day turns into a year." },
+    { "wordId": "de-0040", "exampleDe": "Ich sage mir, ___ das gut ist.", "exampleEn": "I tell myself that this is good." },
+    { "wordId": "de-0045", "exampleDe": "___ einem Tag wird ein Jahr.", "exampleEn": "One day turns into a year." }
+  ],
+  "tip": "This chapter has exactly one adjective — gut. That bareness is deliberate: it is what the narrator can say on his first day, and it is what you can say too. Both of you will get more words.",
+  "showCounter": true
+}

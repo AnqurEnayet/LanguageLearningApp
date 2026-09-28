@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch012",
+  "order": 12,
+  "title": "Bunt",
+  "newWords": [
+    "de-0551", "de-0552", "de-0553", "de-0554", "de-0555",
+    "de-0556", "de-0557", "de-0558", "de-0559", "de-0560",
+    "de-0561", "de-0562", "de-0563", "de-0564", "de-0565",
+    "de-0566", "de-0567", "de-0568", "de-0569", "de-0570",
+    "de-0571", "de-0572", "de-0573", "de-0574", "de-0575",
+    "de-0576", "de-0577", "de-0578", "de-0579", "de-0580",
+    "de-0581", "de-0582", "de-0583", "de-0584", "de-0585",
+    "de-0586", "de-0587", "de-0588", "de-0589", "de-0590",
+    "de-0591", "de-0592", "de-0593", "de-0594", "de-0595",
+    "de-0596", "de-0597", "de-0598", "de-0599", "de-0600"
+  ],
+  "german": [
+    "Der Garten ist {{de-0551|bunt}}. Das Gras ist {{de-0552|grün}}, der Himmel {{de-0553|blau}}, die Sonne {{de-0554|gelb}}. Eine {{de-0555|weiße}} Katze sitzt bei einem {{de-0556|schwarzen}} Hund. Der Stein ist {{de-0557|grau}} und die Erde {{de-0558|braun}}.",
+    "Das Brot ist {{de-0559|rund}} und {{de-0565|frisch}}. Der Teller ist {{de-0560|glatt}}, das Messer {{de-0561|hart}}, die Butter {{de-0562|weich}}. Das Gras auf der Wiese ist {{de-0564|nass}}, aber das Feld ist {{de-0563|trocken}}.",
+    "Das Obst ist {{de-0566|süß}}, der Wein {{de-0567|sauer}}, der Kaffee {{de-0568|bitter}}. Ich bin nicht mehr {{de-0570|hungrig}}, sondern {{de-0569|satt}}. Mila ist {{de-0571|durstig}} und trinkt Wasser.",
+    "Am Morgen bin ich {{de-0572|wach}}. Ein Vogel liegt {{de-0573|tot}} auf dem Boden. Mila wird {{de-0575|ernst}}, obwohl sie sonst {{de-0574|lustig}} ist.",
+    "Der Arzt aus dem Zug kommt in das Dorf. Er ist {{de-0579|höflich}} und {{de-0580|freundlich}}, aber ich werde {{de-0576|nervös}}. Karl ist nicht {{de-0588|neugierig}}; er ist {{de-0587|vorsichtig}}.",
+    "„Sei {{de-0581|ehrlich}}“, sagt Eva zu mir. „Du bist {{de-0582|klug}}, nicht {{de-0583|dumm}}. Du bist {{de-0585|fleißig}}, nicht {{de-0584|faul}}. Sei {{de-0586|mutig}} und {{de-0589|geduldig}}.“",
+    "Ich bin {{de-0578|dankbar}} und {{de-0577|stolz}}. Ich bin {{de-0590|zufrieden}} hier und nicht {{de-0594|einsam}}. Die Arbeit ist {{de-0595|gemeinsam}}.",
+    "Aber der Arzt sagt etwas über Karl, und Eva wird {{de-0593|wütend}}. Ich bin {{de-0592|überrascht}} und {{de-0591|enttäuscht}}, weil ich nicht alles verstehe.",
+    "Das Wort klingt {{de-0596|ähnlich}} wie ein anderes. Ich höre es nicht {{de-0597|deutlich}} und weiß nicht {{de-0598|genau}}, was es bedeutet. {{de-0599|Ungefähr}} verstehe ich {{de-0600|mindestens}} die Hälfte — und die Hälfte ist zu wenig."
+  ],
+  "english": [
+    "The garden is colourful. The grass is green, the sky blue, the sun yellow. A white cat sits beside a black dog. The stone is grey and the earth brown.",
+    "The bread is round and fresh. The plate is smooth, the knife hard, the butter soft. The grass in the meadow is wet, but the field is dry.",
+    "The fruit is sweet, the wine sour, the coffee bitter. I am no longer hungry, but full. Mila is thirsty and drinks water.",
+    "In the morning I am awake. A bird lies dead on the ground. Mila turns serious, although she is usually cheerful.",
+    "The doctor from the train comes into the village. He is polite and friendly, but I become nervous. Karl is not curious; he is careful.",
+    "\"Be honest,\" Eva says to me. \"You are clever, not stupid. You are hard-working, not lazy. Be brave and patient.\"",
+    "I am grateful and proud. I am content here and not lonely. The work is shared.",
+    "But the doctor says something about Karl, and Eva becomes furious. I am surprised and disappointed, because I do not understand everything.",
+    "The word sounds similar to another one. I do not hear it clearly and do not know exactly what it means. Approximately, I understand at least half — and half is too little."
+  ],
+  "grammar": {
+    "title": "nicht … sondern: correcting, not just denying",
+    "body": "German has two words for 'but'. Aber adds a contrast to something still true; sondern replaces something you have just denied, and it only ever follows a negative. If you can say 'but on the contrary' in English, German wants sondern.",
+    "examples": [
+      { "de": "Ich bin nicht hungrig, sondern satt.", "en": "I am not hungry, but full. (the denial is corrected)" },
+      { "de": "Ich bin satt, aber ich esse.", "en": "I am full, but I eat. (both true)" },
+      { "de": "Du bist klug, nicht dumm.", "en": "You are clever, not stupid." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0598", "exampleDe": "Ich weiß nicht ___, was es bedeutet.", "exampleEn": "I do not know exactly what it means." },
+    { "wordId": "de-0597", "exampleDe": "Ich höre es nicht ___.", "exampleEn": "I do not hear it clearly." },
+    { "wordId": "de-0596", "exampleDe": "Das Wort klingt ___ wie ein anderes.", "exampleEn": "The word sounds similar to another one." },
+    { "wordId": "de-0593", "exampleDe": "Eva wird ___.", "exampleEn": "Eva becomes furious." },
+    { "wordId": "de-0590", "exampleDe": "Ich bin ___ hier und nicht einsam.", "exampleEn": "I am content here and not lonely." },
+    { "wordId": "de-0587", "exampleDe": "Karl ist nicht neugierig; er ist ___.", "exampleEn": "Karl is not curious; he is careful." },
+    { "wordId": "de-0581", "exampleDe": "„Sei ___“, sagt Eva zu mir.", "exampleEn": "\"Be honest,\" Eva says to me." },
+    { "wordId": "de-0569", "exampleDe": "Ich bin nicht mehr hungrig, sondern ___.", "exampleEn": "I am no longer hungry, but full." }
+  ],
+  "tip": "The chapter starts with colours and ends with a word Jan cannot quite catch. That is the turn: for the first time understanding half is not enough, and the next chapters are about what he does with the other half.",
+  "showCounter": true
+}

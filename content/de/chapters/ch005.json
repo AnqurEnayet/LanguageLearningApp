@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch005",
+  "order": 5,
+  "title": "Die Arbeit im Winter",
+  "newWords": [
+    "de-0201", "de-0202", "de-0203", "de-0204", "de-0205",
+    "de-0206", "de-0207", "de-0208", "de-0209", "de-0210",
+    "de-0211", "de-0212", "de-0213", "de-0214", "de-0215",
+    "de-0216", "de-0217", "de-0218", "de-0219", "de-0220",
+    "de-0221", "de-0222", "de-0223", "de-0224", "de-0225",
+    "de-0226", "de-0227", "de-0228", "de-0229", "de-0230",
+    "de-0231", "de-0232", "de-0233", "de-0234", "de-0235",
+    "de-0236", "de-0237", "de-0238", "de-0239", "de-0240",
+    "de-0241", "de-0242", "de-0243", "de-0244", "de-0245",
+    "de-0246", "de-0247", "de-0248", "de-0249", "de-0250"
+  ],
+  "german": [
+    "Im Winter {{de-0201|laufe}} ich am Morgen durch den Wald. Dann {{de-0203|sitze}} ich bei dem Feuer und {{de-0213|trinke}} Wasser. Eva {{de-0218|bringt}} Brot, und wir {{de-0212|essen}}.",
+    "Karl {{de-0217|zeigt}} mir die Arbeit. Ich {{de-0208|trage}} Brot in das Haus, {{de-0209|ziehe}} den Stuhl an den Tisch, {{de-0204|lege}} das Brot auf den Tisch und {{de-0205|setze}} mich. Karl {{de-0206|stellt}} Wasser auf das Feuer und {{de-0207|hält}} es mit der Hand.",
+    "Ich {{de-0210|öffne}} das Fenster und {{de-0211|schließe}} die Tür. „{{de-0215|Warte}}“, sagt Karl. „Wir {{de-0216|suchen}} ein Ding.“ Er {{de-0219|holt}} ein Licht, und wir gehen.",
+    "In der Stadt {{de-0220|kaufe}} ich Brot. Es {{de-0222|kostet}} wenig, und ich {{de-0221|zahle}} mit Geld von der Arbeit. Eine Frau {{de-0223|hilft}} mir, und ich {{de-0224|bitte}} sie um ein Wort. Sie {{de-0225|antwortet}} mir.",
+    "Am Abend {{de-0226|erzählt}} Eva eine Geschichte. Ich {{de-0227|schreibe}} Wörter in ein Buch. „Wie {{de-0229|heißt}} das?“, frage ich, und sie {{de-0228|nennt}} mir den Namen. Ich {{de-0230|glaube}}, dass ich es {{de-0249|merke}}.",
+    "Ich {{de-0231|hoffe}}, und ich {{de-0232|fühle}}, dass die Zeit kurz ist. Mila {{de-0235|lacht}} und {{de-0237|spielt}} mit dem Jungen. Ein Kind {{de-0236|weint}}. {{de-0238|Singen}} kann ich nicht, aber ich {{de-0241|versuche}} es.",
+    "Karl {{de-0245|trifft}} einen Mann aus dem Dorf. Sie {{de-0246|besuchen}} eine Familie, die er {{de-0247|kennt}}. Ich {{de-0248|vergesse}} den Namen von dem Mann, aber ich {{de-0234|mag}} ihn.",
+    "Ein Tag {{de-0244|passiert}} und dann ein Monat. Ich {{de-0242|schaffe}} die Arbeit, {{de-0243|ändere}} wenig und {{de-0239|gewinne}} Zeit. Wenn ich ein Wort {{de-0240|verliere}}, suche ich es wieder.",
+    "In der Nacht {{de-0214|schlafe}} ich gut. Eva sagt, dass ein Mensch {{de-0250|stirbt}}, wenn er nicht {{de-0233|liebt}}. Am Morgen {{de-0202|fahre}} ich mit Karl in die Stadt."
+  ],
+  "english": [
+    "In winter I run through the forest in the morning. Then I sit by the fire and drink water. Eva brings bread, and we eat.",
+    "Karl shows me the work. I carry bread into the house, pull the chair up to the table, lay the bread on the table and sit down. Karl puts water on the fire and holds it with his hand.",
+    "I open the window and close the door. \"Wait,\" says Karl. \"We are looking for something.\" He fetches a light, and we go.",
+    "In the city I buy bread. It costs little, and I pay with money from the work. A woman helps me, and I ask her for a word. She answers me.",
+    "In the evening Eva tells a story. I write words in a book. \"What is that called?\" I ask, and she tells me the name. I believe that I will remember it.",
+    "I hope, and I feel that time is short. Mila laughs and plays with the boy. A child cries. I cannot sing, but I try.",
+    "Karl meets a man from the village. They visit a family that he knows. I forget the man's name, but I like him.",
+    "A day happens and then a month. I manage the work, change little and gain time. When I lose a word, I look for it again.",
+    "At night I sleep well. Eva says that a person dies if he does not love. In the morning I drive into the city with Karl."
+  ],
+  "grammar": {
+    "title": "Verbs that take the dative: helfen, gehören, gefallen",
+    "body": "Most verbs act on an accusative object, but a small and very common group takes the dative instead — the person is not acted upon so much as affected. 'Eine Frau hilft mir', never 'hilft mich'. Learn these few as exceptions now and they will stop tripping you later: helfen, danken, antworten, gehören, gefallen, passen.",
+    "examples": [
+      { "de": "Eine Frau hilft mir.", "en": "A woman helps me. (mir, not mich)" },
+      { "de": "Sie antwortet mir.", "en": "She answers me." },
+      { "de": "Sie nennt mir den Namen.", "en": "She tells me the name." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0223", "exampleDe": "Eine Frau ___ mir in der Stadt.", "exampleEn": "A woman helps me in the city." },
+    { "wordId": "de-0229", "exampleDe": "Wie ___ das?", "exampleEn": "What is that called?" },
+    { "wordId": "de-0227", "exampleDe": "Ich ___ Wörter in ein Buch.", "exampleEn": "I write words in a book." },
+    { "wordId": "de-0241", "exampleDe": "Singen kann ich nicht, aber ich ___ es.", "exampleEn": "I cannot sing, but I try." },
+    { "wordId": "de-0248", "exampleDe": "Ich ___ den Namen von dem Mann.", "exampleEn": "I forget the man's name." },
+    { "wordId": "de-0247", "exampleDe": "Sie besuchen eine Familie, die er ___.", "exampleEn": "They visit a family that he knows." },
+    { "wordId": "de-0230", "exampleDe": "Ich ___, dass ich es merke.", "exampleEn": "I believe that I will remember it." },
+    { "wordId": "de-0250", "exampleDe": "Ein Mensch ___, wenn er nicht liebt.", "exampleEn": "A person dies if he does not love." }
+  ],
+  "tip": "Where chapter 4 gave you fifty nouns, this one gives you fifty verbs — and with them, sentences. Notice that you can now describe a whole day without meeting a single new word: that is the compound interest a frequency list pays.",
+  "showCounter": true
+}

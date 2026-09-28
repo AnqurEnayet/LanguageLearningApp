@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch015",
+  "order": 15,
+  "title": "Der Herbst kommt wieder",
+  "newWords": [
+    "de-0701", "de-0702", "de-0703", "de-0704", "de-0705",
+    "de-0706", "de-0707", "de-0708", "de-0709", "de-0710",
+    "de-0711", "de-0712", "de-0713", "de-0714", "de-0715",
+    "de-0716", "de-0717", "de-0718", "de-0719", "de-0720",
+    "de-0721", "de-0722", "de-0723", "de-0724", "de-0725",
+    "de-0726", "de-0727", "de-0728", "de-0729", "de-0730",
+    "de-0731", "de-0732", "de-0733", "de-0734", "de-0735",
+    "de-0736", "de-0737", "de-0738", "de-0739", "de-0740",
+    "de-0741", "de-0742", "de-0743", "de-0744", "de-0745",
+    "de-0746", "de-0747", "de-0748", "de-0749", "de-0750"
+  ],
+  "german": [
+    "Wir haben einen {{de-0702|Termin}} im Amt. Die {{de-0703|Uhr}} zeigt die Zeit: jede {{de-0704|Minute}} und jede {{de-0705|Sekunde}} ist wichtig. Die {{de-0701|Dauer}} von dem Gespräch ist kurz.",
+    "Der Herr liest den Vertrag und fragt nach jeder {{de-0726|Einzelheit}}. Er will die {{de-0724|Summe}} und den {{de-0725|Anteil}} wissen. Die {{de-0723|Menge}} von Käse und das {{de-0721|Gewicht}} sind das {{de-0722|Maß}} für den Lohn.",
+    "„Die {{de-0731|Bedingung}} ist einfach“, sagt er. „Die {{de-0732|Folge}} von einem Fehler ist hart.“ Die {{de-0734|Ursache}} von dem Streit war eine Rechnung; die {{de-0733|Wirkung}} ist ein neuer Plan.",
+    "Der {{de-0735|Zweck}} ist klar, und der {{de-0736|Nutzen}} ist groß. Es gibt einen {{de-0737|Vorteil}} und auch einen {{de-0738|Nachteil}}: wir haben wenig Zeit.",
+    "Das ist eine {{de-0740|Gelegenheit}} und eine {{de-0739|Möglichkeit}}. Ich habe die {{de-0741|Wahl}}, und die {{de-0742|Entscheidung}} ist meine. Jetzt habe ich {{de-0743|Verantwortung}} und eine {{de-0744|Pflicht}}.",
+    "Meine {{de-0745|Rolle}} im Haus ist neu. Ein {{de-0747|Werkzeug}} und eine {{de-0748|Maschine}} sind {{de-0746|Mittel}} für die Arbeit. Die {{de-0749|Technik}} ist alt, aber sie ist auch eine {{de-0750|Wissenschaft}}.",
+    "Der {{de-0707|Herbst}} kommt wieder. Seit dem {{de-0708|Frühling}} ist viel passiert. Am {{de-0709|Wochenende}} und an jedem {{de-0710|Feiertag}} arbeiten wir.",
+    "Der Arzt macht eine {{de-0711|Reise}}. Die {{de-0715|Abfahrt}} ist am Morgen, die {{de-0714|Ankunft}} in der Stadt am Abend. Der {{de-0713|Abschied}} ist kurz. Ein {{de-0712|Besuch}} war genug.",
+    "Wir stehen in einem {{de-0717|Kreis}} an der {{de-0716|Ecke}} von dem Hof. Ich sehe die {{de-0718|Höhe}} von dem Turm, die {{de-0719|Tiefe}} von dem Fluss und die {{de-0720|Länge}} von dem Weg.",
+    "Das Haus steht ein {{de-0706|Jahrhundert}} hier. Der {{de-0728|Zustand}} ist gut. Die {{de-0729|Lage}} bei dem Fluss ist die beste {{de-0727|Eigenschaft}}. Unter jedem {{de-0730|Umstand}} bleibe ich."
+  ],
+  "english": [
+    "We have an appointment at the office. The clock shows the time: every minute and every second matters. The conversation does not last long.",
+    "The gentleman reads the contract and asks about every detail. He wants to know the sum and the share. The quantity of cheese and the weight are the measure for the pay.",
+    "\"The condition is simple,\" he says. \"The consequence of a mistake is hard.\" The cause of the argument was a bill; the effect is a new plan.",
+    "The purpose is clear, and the benefit is great. There is an advantage and also a disadvantage: we have little time.",
+    "This is an opportunity and a possibility. I have the choice, and the decision is mine. Now I have responsibility and a duty.",
+    "My role in the house is new. A tool and a machine are means for the work. The technique is old, but it is also a science.",
+    "Autumn comes again. Since the spring much has happened. At the weekend and on every public holiday we work.",
+    "The doctor makes a journey. The departure is in the morning, the arrival in the city in the evening. The farewell is short. One visit was enough.",
+    "We stand in a circle at the corner of the yard. I see the height of the tower, the depth of the river and the length of the way.",
+    "The house has stood here for a century. Its condition is good. The position by the river is its best quality. Under any circumstance, I am staying."
+  ],
+  "grammar": {
+    "title": "Adjectives become nouns — die Höhe from hoch",
+    "body": "German turns adjectives into abstract nouns by adding -e and usually an umlaut, and every one of them is die. You already know the adjectives in the examples below, which means you get these nouns almost for free — a good habit whenever you meet a new adjective.",
+    "examples": [
+      { "de": "hoch → die Höhe; tief → die Tiefe", "en": "high → height; deep → depth" },
+      { "de": "lang → die Länge; groß → die Größe", "en": "long → length; big → size" },
+      { "de": "Die Lage bei dem Fluss ist gut.", "en": "The position by the river is good." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0743", "exampleDe": "Jetzt habe ich ___ und eine Pflicht.", "exampleEn": "Now I have responsibility and a duty." },
+    { "wordId": "de-0742", "exampleDe": "Ich habe die Wahl, und die ___ ist meine.", "exampleEn": "I have the choice, and the decision is mine." },
+    { "wordId": "de-0734", "exampleDe": "Die ___ von dem Streit war eine Rechnung.", "exampleEn": "The cause of the argument was a bill." },
+    { "wordId": "de-0732", "exampleDe": "Die ___ von einem Fehler ist hart.", "exampleEn": "The consequence of a mistake is hard." },
+    { "wordId": "de-0740", "exampleDe": "Das ist eine ___ und eine Möglichkeit.", "exampleEn": "That is an opportunity and a possibility." },
+    { "wordId": "de-0730", "exampleDe": "Unter jedem ___ bleibe ich.", "exampleEn": "Under any circumstance I am staying." },
+    { "wordId": "de-0713", "exampleDe": "Der ___ ist kurz.", "exampleEn": "The farewell is short." },
+    { "wordId": "de-0727", "exampleDe": "Die Lage bei dem Fluss ist die beste ___.", "exampleEn": "The position by the river is the best quality." }
+  ],
+  "tip": "A year after chapter 1, the same autumn comes round and Jan says the sentence he could not have formed then: Unter jedem Umstand bleibe ich. Count the words he needed to say it — 750, and a quarter of the book.",
+  "showCounter": true
+}

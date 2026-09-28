@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch006",
+  "order": 6,
+  "title": "Kalt und krank",
+  "newWords": [
+    "de-0251", "de-0252", "de-0253", "de-0254", "de-0255",
+    "de-0256", "de-0257", "de-0258", "de-0259", "de-0260",
+    "de-0261", "de-0262", "de-0263", "de-0264", "de-0265",
+    "de-0266", "de-0267", "de-0268", "de-0269", "de-0270",
+    "de-0271", "de-0272", "de-0273", "de-0274", "de-0275",
+    "de-0276", "de-0277", "de-0278", "de-0279", "de-0280",
+    "de-0281", "de-0282", "de-0283", "de-0284", "de-0285",
+    "de-0286", "de-0287", "de-0288", "de-0289", "de-0290",
+    "de-0291", "de-0292", "de-0293", "de-0294", "de-0295",
+    "de-0296", "de-0297", "de-0298", "de-0299", "de-0300"
+  ],
+  "german": [
+    "Der Winter ist {{de-0259|kalt}}. Die Nacht ist {{de-0262|dunkel}}, und der Morgen kommt {{de-0268|spät}}. Das Feuer ist {{de-0260|heiß}}, und das Zimmer wird {{de-0258|warm}}.",
+    "Ich werde {{de-0276|krank}}. Ich bin {{de-0275|müde}} und {{de-0254|schwach}}. Eva ist {{de-0290|lieb}} zu mir und {{de-0291|still}}. Sie steht {{de-0284|nah}} bei dem Bett.",
+    "„Du wirst {{de-0277|gesund}}“, sagt sie {{de-0264|leise}}. „Sei {{de-0292|ruhig}}.“ Die Stimme ist {{de-0283|klar}}, und ich glaube ihr.",
+    "Karl ist ein {{de-0253|starker}} Mann, aber das Gesicht ist {{de-0274|traurig}}. „Die Arbeit ist {{de-0288|schlecht}} im Winter“, sagt er. „Wir sind {{de-0272|arm}}, nicht {{de-0271|reich}}.“",
+    "Das Haus ist {{de-0270|leer}} und der Tisch nicht {{de-0269|voll}}. Ich bin {{de-0293|fremd}} hier, aber das Dorf wird mir {{de-0294|bekannt}}. Ein Ort und ein Mensch sind nicht {{de-0295|gleich}}, sie sind {{de-0296|verschieden}}.",
+    "Mila kommt. Sie ist {{de-0252|jung}} und {{de-0251|schön}}, und sie läuft {{de-0265|schnell}}. Der Junge ist {{de-0266|langsam}}. Sie bringen ein {{de-0300|rotes}} Ding: ein Bild von einem {{de-0255|hohen}} Berg.",
+    "Das Meer ist {{de-0256|tief}} und {{de-0257|breit}}. Der Weg zu ihm ist {{de-0297|weit}}, und das Dorf ist {{de-0285|fern}}. Aber das Bild ist {{de-0298|dünn}}, und das Buch ist {{de-0299|dick}}.",
+    "Am {{de-0267|frühen}} Morgen ist das Licht {{de-0261|hell}}. Die Kinder sind {{de-0263|laut}}. Die Tür steht {{de-0279|offen}}, ich bin {{de-0278|frei}} und {{de-0273|glücklich}}.",
+    "Ich bin {{de-0286|fertig}} mit dem Winter. Es ist {{de-0287|nötig}}, mehr zu lernen: das ist {{de-0282|wahr}} und {{de-0281|einfach}}. Karl ist nicht {{de-0289|böse}}, und ich bin {{de-0280|sicher}}, dass der Sommer kommt."
+  ],
+  "english": [
+    "The winter is cold. The night is dark, and the morning comes late. The fire is hot, and the room becomes warm.",
+    "I fall ill. I am tired and weak. Eva is kind to me and quiet. She stands close by the bed.",
+    "\"You will get well,\" she says softly. \"Be calm.\" Her voice is clear, and I believe her.",
+    "Karl is a strong man, but his face is sad. \"The work is bad in winter,\" he says. \"We are poor, not rich.\"",
+    "The house is empty and the table not full. I am a stranger here, but the village is becoming familiar to me. A place and a person are not the same, they are different.",
+    "Mila comes. She is young and beautiful, and she runs fast. The boy is slow. They bring a red thing: a picture of a high mountain.",
+    "The sea is deep and wide. The way to it is far, and the village is distant. But the picture is thin, and the book is thick.",
+    "In the early morning the light is bright. The children are loud. The door stands open, I am free and happy.",
+    "I am done with the winter. It is necessary to learn more: that is true and simple. Karl is not angry, and I am certain that summer will come."
+  ],
+  "grammar": {
+    "title": "Adjectives before a noun take an ending",
+    "body": "An adjective after 'sein' never changes: 'Der Mann ist stark.' But put it in front of the noun and it must agree: 'ein starker Mann'. Do not memorise the full table yet — just notice that a bare adjective is the simple case, and that the ending appears only when the adjective sits before the noun.",
+    "examples": [
+      { "de": "Der Mann ist stark. → ein starker Mann", "en": "The man is strong. → a strong man" },
+      { "de": "Der Berg ist hoch. → ein hoher Berg", "en": "The mountain is high. → a high mountain" },
+      { "de": "Das Ding ist rot. → ein rotes Ding", "en": "The thing is red. → a red thing" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0276", "exampleDe": "Ich werde ___ und bleibe im Bett.", "exampleEn": "I fall ill and stay in bed." },
+    { "wordId": "de-0293", "exampleDe": "Ich bin ___ hier, aber das Dorf wird mir bekannt.", "exampleEn": "I am a stranger here, but the village is becoming familiar." },
+    { "wordId": "de-0296", "exampleDe": "Ein Ort und ein Mensch sind ___.", "exampleEn": "A place and a person are different." },
+    { "wordId": "de-0287", "exampleDe": "Es ist ___, mehr zu lernen.", "exampleEn": "It is necessary to learn more." },
+    { "wordId": "de-0280", "exampleDe": "Ich bin ___, dass der Sommer kommt.", "exampleEn": "I am certain that summer will come." },
+    { "wordId": "de-0264", "exampleDe": "Sie sagt es ___.", "exampleEn": "She says it softly." },
+    { "wordId": "de-0286", "exampleDe": "Ich bin ___ mit dem Winter.", "exampleEn": "I am done with the winter." },
+    { "wordId": "de-0297", "exampleDe": "Der Weg zum Meer ist ___.", "exampleEn": "The way to the sea is far." }
+  ],
+  "tip": "Fifty adjectives, and most arrive as opposites: kalt/warm, hell/dunkel, voll/leer, arm/reich. Learn them in pairs — a pair costs barely more than a single word and doubles what you can say.",
+  "showCounter": true
+}

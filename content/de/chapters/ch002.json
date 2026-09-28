@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch002",
+  "order": 2,
+  "title": "Die Stadt",
+  "newWords": [
+    "de-0051", "de-0052", "de-0053", "de-0054", "de-0055",
+    "de-0056", "de-0057", "de-0058", "de-0059", "de-0060",
+    "de-0061", "de-0062", "de-0063", "de-0064", "de-0065",
+    "de-0066", "de-0067", "de-0068", "de-0069", "de-0070",
+    "de-0071", "de-0072", "de-0073", "de-0074", "de-0075",
+    "de-0076", "de-0077", "de-0078", "de-0079", "de-0080",
+    "de-0081", "de-0082", "de-0083", "de-0084", "de-0085",
+    "de-0086", "de-0087", "de-0088", "de-0089", "de-0090",
+    "de-0091", "de-0092", "de-0093", "de-0094", "de-0095",
+    "de-0096", "de-0097", "de-0098", "de-0099", "de-0100"
+  ],
+  "german": [
+    "{{de-0060|Jetzt}} {{de-0088|bleibe}} ich {{de-0056|bei}} dem Mann und der Frau. Am {{de-0081|Morgen}} {{de-0051|kommen}} wir in die {{de-0073|Stadt}}. Sie ist {{de-0068|groß}}, und ich bin {{de-0067|klein}} in ihr.",
+    "{{de-0065|Alle}} {{de-0072|Leute}} {{de-0086|stehen}} auf dem {{de-0079|Weg}} und {{de-0093|sprechen}}. Ich {{de-0094|höre}} sie, aber ich {{de-0085|finde}} {{de-0064|kein}} {{de-0078|Wort}}, das ich {{de-0054|weiß}}. Ich {{de-0052|muss}} {{de-0092|lernen}}.",
+    "Ein {{de-0071|Kind}} {{de-0087|liegt}} bei dem {{de-0082|Wasser}} und {{de-0090|fragt}}: „{{de-0062|Wer}} bist du?“ Das Kind spricht {{de-0098|kurz}} und {{de-0100|leicht}}, und ich weiß, was es sagt. Das ist {{de-0069|neu}} für mich.",
+    "Ich {{de-0089|denke}} {{de-0058|immer}} {{de-0057|über}} Wörter {{de-0055|nach}}. {{de-0059|Dann}} {{de-0084|nehme}} ich die {{de-0076|Hand}} von dem Kind. Ich {{de-0053|will}} sagen, wer ich bin, aber ich kann es noch nicht.",
+    "Das Kind sieht mich mit {{de-0077|Augen}} an, die {{de-0066|viel}} wissen. „{{de-0083|Gib}} mir Zeit“, sage ich.",
+    "Die {{de-0080|Nacht}} ist {{de-0097|lang}}. Ich {{de-0091|lese}}, {{de-0061|oder}} ich {{de-0095|arbeite}}: das ist {{de-0099|schwer}}. Aber ich {{de-0096|lebe}} jetzt in einem {{de-0075|Land}}, und {{de-0070|alte}} Leute sagen mir, dass {{de-0063|meine}} {{de-0074|Welt}} groß wird."
+  ],
+  "english": [
+    "Now I am staying with the man and the woman. In the morning we come into the city. It is big, and I am small in it.",
+    "All the people stand on the path and talk. I hear them, but I cannot find a single word that I know. I have to learn.",
+    "A child is lying by the water and asks: \"Who are you?\" The child speaks briefly and simply, and I know what it is saying. That is new for me.",
+    "I am always thinking about words. Then I take the child's hand. I want to say who I am, but I still cannot.",
+    "The child looks at me with eyes that know a lot. \"Give me time,\" I say.",
+    "The night is long. I read, or I work: that is hard. But I live in a country now, and old people tell me that my world is getting bigger."
+  ],
+  "grammar": {
+    "title": "Modal verbs, and the verb that waits at the end",
+    "body": "Modal verbs bend the meaning of another verb, and that second verb goes to the very end of the sentence in its plain infinitive form. Waiting for the final verb is one of the habits you must build to read German at speed.",
+    "examples": [
+      { "de": "Ich muss lernen.", "en": "I have to learn." },
+      { "de": "Ich will sagen, wer ich bin.", "en": "I want to say who I am." },
+      { "de": "Ich kann es noch nicht sagen.", "en": "I still cannot say it." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0054", "exampleDe": "Ich finde kein Wort, das ich ___.", "exampleEn": "I find no word that I know." },
+    { "wordId": "de-0053", "exampleDe": "Ich ___ sagen, wer ich bin.", "exampleEn": "I want to say who I am." },
+    { "wordId": "de-0052", "exampleDe": "Ich ___ lernen.", "exampleEn": "I have to learn." },
+    { "wordId": "de-0085", "exampleDe": "Ich ___ kein Wort.", "exampleEn": "I find no word." },
+    { "wordId": "de-0088", "exampleDe": "Jetzt ___ ich bei dem Mann und der Frau.", "exampleEn": "Now I am staying with the man and the woman." },
+    { "wordId": "de-0089", "exampleDe": "Ich ___ immer über Wörter nach.", "exampleEn": "I am always thinking about words." },
+    { "wordId": "de-0099", "exampleDe": "Das ist ___.", "exampleEn": "That is hard." }
+  ],
+  "tip": "Watch what happens in the fourth paragraph: he wants to say who he is and cannot. The word he needs does not exist yet — it arrives at rank 135, in the next chapter. His limits are your limits.",
+  "showCounter": true
+}

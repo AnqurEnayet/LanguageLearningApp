@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch011",
+  "order": 11,
+  "title": "Das Fest",
+  "newWords": [
+    "de-0501", "de-0502", "de-0503", "de-0504", "de-0505",
+    "de-0506", "de-0507", "de-0508", "de-0509", "de-0510",
+    "de-0511", "de-0512", "de-0513", "de-0514", "de-0515",
+    "de-0516", "de-0517", "de-0518", "de-0519", "de-0520",
+    "de-0521", "de-0522", "de-0523", "de-0524", "de-0525",
+    "de-0526", "de-0527", "de-0528", "de-0529", "de-0530",
+    "de-0531", "de-0532", "de-0533", "de-0534", "de-0535",
+    "de-0536", "de-0537", "de-0538", "de-0539", "de-0540",
+    "de-0541", "de-0542", "de-0543", "de-0544", "de-0545",
+    "de-0546", "de-0547", "de-0548", "de-0549", "de-0550"
+  ],
+  "german": [
+    "Am Morgen {{de-0509|grabe}} ich im Garten und {{de-0510|pflanze}} Gemüse. Ich {{de-0511|füttere}} den Hund und die Katze. Karl {{de-0512|reitet}} auf dem Pferd über das Feld.",
+    "Eva {{de-0501|kocht}} und {{de-0502|bäckt}} Brot. Ich {{de-0503|wasche}} die Teller und {{de-0504|putze}} den Boden. Mit dem Messer {{de-0505|schneide}} ich Fleisch und Käse.",
+    "Ein Glas {{de-0506|bricht}}. Das Papier {{de-0507|reißt}}. Ich {{de-0508|binde}} das Gras zusammen und {{de-0525|packe}} es in eine Tasche.",
+    "Wir {{de-0523|sammeln}} Obst und {{de-0524|ordnen}} alles auf dem Tisch. Ich {{de-0518|messe}} die Wand und {{de-0519|wiege}} das Brot. Karl {{de-0520|rechnet}} und {{de-0521|zählt}} das Geld. Wir {{de-0522|teilen}} es.",
+    "„Wir {{de-0539|feiern}}“, sagt Eva. Sie will die Nachbarn {{de-0538|einladen}}. Ich {{de-0545|klopfe}} an jede Tür und {{de-0537|grüße}} die Leute. Auf dem Weg {{de-0536|begegne}} ich dem Arzt aus dem Zug.",
+    "Am Abend {{de-0540|tanzen}} alle auf dem Hof. Mila {{de-0541|küsst}} den Jungen. Zwei Männer {{de-0542|streiten}} über ein Pferd; einer {{de-0544|schreit}}, der andere {{de-0543|flüstert}}.",
+    "Karl {{de-0516|hebt}} einen Stein und {{de-0515|schiebt}} den Wagen. Ich {{de-0514|werfe}} einen Ball, und der Hund {{de-0513|fängt}} ihn. Mila {{de-0517|wendet}} sich um und {{de-0546|drückt}} meine Hand.",
+    "Ich {{de-0547|fasse}} das Glas und {{de-0548|greife}} nach dem Wein. Dann {{de-0550|stecke}} ich den Schlüssel in die Tasche und {{de-0549|lasse}} die Tür offen.",
+    "Ich {{de-0529|verdiene}} jetzt Geld und {{de-0528|spare}} es. Ich {{de-0530|besitze}} wenig, aber ich {{de-0531|benutze}} alles. Ein Werkzeug {{de-0533|dient}} der Arbeit und {{de-0532|nutzt}} mir. Karl {{de-0527|leiht}} mir sein Messer, und wir {{de-0526|tauschen}} Brot gegen Käse.",
+    "Der Wein {{de-0534|wirkt}}, und die Leute {{de-0535|handeln}} frei. Es ist ein gutes Fest."
+  ],
+  "english": [
+    "In the morning I dig in the garden and plant vegetables. I feed the dog and the cat. Karl rides the horse across the field.",
+    "Eva cooks and bakes bread. I wash the plates and clean the floor. With the knife I cut meat and cheese.",
+    "A glass breaks. The paper tears. I tie the grass together and pack it into a bag.",
+    "We collect fruit and arrange everything on the table. I measure the wall and weigh the bread. Karl calculates and counts the money. We share it.",
+    "\"We are going to celebrate,\" says Eva. She wants to invite the neighbours. I knock on every door and greet the people. On the way I run into the doctor from the train.",
+    "In the evening everyone dances in the yard. Mila kisses the boy. Two men quarrel about a horse; one shouts, the other whispers.",
+    "Karl lifts a stone and pushes the cart. I throw a ball, and the dog catches it. Mila turns around and presses my hand.",
+    "I grasp the glass and reach for the wine. Then I put the key in my pocket and leave the door open.",
+    "I earn money now and save it. I own little, but I use everything. A tool serves the work and is of use to me. Karl lends me his knife, and we exchange bread for cheese.",
+    "The wine takes effect, and the people act freely. It is a good celebration."
+  ],
+  "grammar": {
+    "title": "Strong verbs change their vowel — and you must hear it",
+    "body": "A large group of common German verbs shifts its stem vowel in the du and er forms of the present tense. There is no rule that predicts which verbs do it, but they are almost all the oldest and most frequent ones, so you meet them constantly. Learn the er form together with the infinitive.",
+    "examples": [
+      { "de": "backen → er bäckt; brechen → er bricht", "en": "to bake → he bakes; to break → he breaks" },
+      { "de": "waschen → du wäschst; fangen → er fängt", "en": "to wash → you wash; to catch → he catches" },
+      { "de": "messen → er misst; lassen → er lässt", "en": "to measure → he measures; to let → he lets" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0538", "exampleDe": "Sie will die Nachbarn ___.", "exampleEn": "She wants to invite the neighbours." },
+    { "wordId": "de-0536", "exampleDe": "Auf dem Weg ___ ich dem Arzt.", "exampleEn": "On the way I run into the doctor." },
+    { "wordId": "de-0542", "exampleDe": "Zwei Männer ___ über ein Pferd.", "exampleEn": "Two men quarrel about a horse." },
+    { "wordId": "de-0527", "exampleDe": "Karl ___ mir sein Messer.", "exampleEn": "Karl lends me his knife." },
+    { "wordId": "de-0529", "exampleDe": "Ich ___ jetzt Geld.", "exampleEn": "I earn money now." },
+    { "wordId": "de-0522", "exampleDe": "Karl zählt das Geld, und wir ___ es.", "exampleEn": "Karl counts the money, and we share it." },
+    { "wordId": "de-0549", "exampleDe": "Ich ___ die Tür offen.", "exampleEn": "I leave the door open." },
+    { "wordId": "de-0534", "exampleDe": "Der Wein ___.", "exampleEn": "The wine takes effect." }
+  ],
+  "tip": "Fifty verbs of the hand: digging, cutting, lifting, tying. These are the words a language course usually gives you last and a life gives you first — which is why Jan, who learned German by working, has them now.",
+  "showCounter": true
+}

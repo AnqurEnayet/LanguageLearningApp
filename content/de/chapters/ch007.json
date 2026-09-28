@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch007",
+  "order": 7,
+  "title": "Weil, obwohl, trotzdem",
+  "newWords": [
+    "de-0301", "de-0302", "de-0303", "de-0304", "de-0305",
+    "de-0306", "de-0307", "de-0308", "de-0309", "de-0310",
+    "de-0311", "de-0312", "de-0313", "de-0314", "de-0315",
+    "de-0316", "de-0317", "de-0318", "de-0319", "de-0320",
+    "de-0321", "de-0322", "de-0323", "de-0324", "de-0325",
+    "de-0326", "de-0327", "de-0328", "de-0329", "de-0330",
+    "de-0331", "de-0332", "de-0333", "de-0334", "de-0335",
+    "de-0336", "de-0337", "de-0338", "de-0339", "de-0340",
+    "de-0341", "de-0342", "de-0343", "de-0344", "de-0345",
+    "de-0346", "de-0347", "de-0348", "de-0349", "de-0350"
+  ],
+  "german": [
+    "{{de-0310|Zuerst}} kommt der Regen. {{de-0311|Endlich}} ist der Winter zu Ende, {{de-0301|weil}} die Sonne {{de-0316|oft}} Licht gibt. {{de-0312|Plötzlich}} wird {{de-0342|alles}} warm.",
+    "Ich arbeite {{de-0329|gern}} im Garten, {{de-0330|lieber}} als im Haus. {{de-0306|Also}} gehe ich {{de-0313|sofort}} zu Karl. „Ich will {{de-0331|zusammen}} arbeiten“, sage ich, „nicht {{de-0332|allein}}.“",
+    "Karl sagt {{de-0340|nichts}}. {{de-0308|Trotzdem}} verstehe ich ihn, {{de-0305|denn}} das Gesicht sagt {{de-0341|etwas}}. {{de-0326|Eigentlich}} ist er nicht böse, {{de-0304|sondern}} müde.",
+    "{{de-0302|Obwohl}} ich {{de-0319|nie}} in einer Schule war, lerne ich {{de-0334|jeden}} Tag. {{de-0345|Man}} kann {{de-0322|überhaupt}} nicht ohne Wörter leben.",
+    "{{de-0335|Dieser}} Ort ist {{de-0323|besonders}} schön. {{de-0346|Hinter}} dem Haus steht ein Baum, und {{de-0347|neben}} ihm ist ein Platz. {{de-0349|Wegen}} dem Regen bleibe ich {{de-0315|lange}} im Zimmer.",
+    "{{de-0336|Welcher}} Weg ist richtig? {{de-0338|Beide}} sind gut. {{de-0339|Einige}} Leute gehen einen {{de-0337|anderen}} Weg, {{de-0348|statt}} zu warten. {{de-0350|Außer}} Mila kommt {{de-0344|niemand}}.",
+    "{{de-0343|Jemand}} sagt meinen Namen. Es ist Mila. „{{de-0325|Natürlich}} kommst du“, sage ich. {{de-0324|Wirklich}} bin ich glücklich.",
+    "{{de-0320|Gerade}} jetzt ist es leicht. {{de-0318|Manchmal}} ist es schwer, {{de-0317|selten}} ganz einfach. {{de-0328|Leider}} vergesse ich {{de-0327|wahrscheinlich}} viel, {{de-0307|deshalb}} übe ich am Abend.",
+    "Ich schreibe, {{de-0303|damit}} ich die Wörter {{de-0321|eben}} nicht verliere. {{de-0309|Außerdem}} lese ich {{de-0333|selbst}}, und {{de-0314|bald}} kann ich mehr."
+  ],
+  "english": [
+    "First comes the rain. At last the winter is over, because the sun often gives light. Suddenly everything becomes warm.",
+    "I like working in the garden, more than in the house. So I go straight to Karl. \"I want to work together,\" I say, \"not alone.\"",
+    "Karl says nothing. Nevertheless I understand him, for his face says something. Actually he is not angry, but rather tired.",
+    "Although I was never at a school, I learn every day. One simply cannot live without words.",
+    "This place is especially beautiful. Behind the house stands a tree, and next to it is a square. Because of the rain I stay in the room for a long time.",
+    "Which way is right? Both are good. Some people take another way, instead of waiting. Apart from Mila, nobody comes.",
+    "Someone says my name. It is Mila. \"Of course you come,\" I say. I am really happy.",
+    "Just now it is easy. Sometimes it is hard, rarely quite simple. Unfortunately I probably forget a lot, so I practise in the evening.",
+    "I write so that I do not lose the words. Besides, I read by myself, and soon I will be able to do more."
+  ],
+  "grammar": {
+    "title": "weil sends the verb to the end — aber and denn do not",
+    "body": "This is the single most useful distinction in German sentence building. Subordinating conjunctions (weil, obwohl, damit, dass, wenn, bis) push the verb to the very end of their clause. Coordinating ones (und, aber, oder, denn, sondern) change nothing at all. Compare the two examples below: the same idea, the verb in two different places.",
+    "examples": [
+      { "de": "Ich bleibe, weil es regnet.", "en": "I stay because it is raining. (weil → verb last)" },
+      { "de": "Ich bleibe, denn es regnet.", "en": "I stay, for it is raining. (denn → normal order)" },
+      { "de": "Obwohl ich nie in einer Schule war, lerne ich jeden Tag.", "en": "Although I was never at a school, I learn every day." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0301", "exampleDe": "Der Winter ist zu Ende, ___ die Sonne Licht gibt.", "exampleEn": "The winter is over because the sun gives light." },
+    { "wordId": "de-0302", "exampleDe": "___ ich nie in einer Schule war, lerne ich jeden Tag.", "exampleEn": "Although I was never at a school, I learn every day." },
+    { "wordId": "de-0308", "exampleDe": "Karl sagt nichts. ___ verstehe ich ihn.", "exampleEn": "Karl says nothing. Nevertheless I understand him." },
+    { "wordId": "de-0304", "exampleDe": "Er ist nicht böse, ___ müde.", "exampleEn": "He is not angry, but rather tired." },
+    { "wordId": "de-0303", "exampleDe": "Ich schreibe, ___ ich die Wörter nicht verliere.", "exampleEn": "I write so that I do not lose the words." },
+    { "wordId": "de-0307", "exampleDe": "Ich vergesse viel, ___ übe ich am Abend.", "exampleEn": "I forget a lot, so I practise in the evening." },
+    { "wordId": "de-0345", "exampleDe": "___ kann nicht ohne Wörter leben.", "exampleEn": "One cannot live without words." },
+    { "wordId": "de-0348", "exampleDe": "Sie gehen einen anderen Weg, ___ zu warten.", "exampleEn": "They take another way instead of waiting." }
+  ],
+  "tip": "This is the chapter that turns your sentences from a list into an argument. Until now Jan could only say what happened; with weil, obwohl and trotzdem he can say why — and so can you.",
+  "showCounter": true
+}

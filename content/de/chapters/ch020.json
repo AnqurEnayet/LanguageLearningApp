@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch020",
+  "order": 20,
+  "title": "Das Geheimnis",
+  "newWords": [
+    "de-0951", "de-0952", "de-0953", "de-0954", "de-0955",
+    "de-0956", "de-0957", "de-0958", "de-0959", "de-0960",
+    "de-0961", "de-0962", "de-0963", "de-0964", "de-0965",
+    "de-0966", "de-0967", "de-0968", "de-0969", "de-0970",
+    "de-0971", "de-0972", "de-0973", "de-0974", "de-0975",
+    "de-0976", "de-0977", "de-0978", "de-0979", "de-0980",
+    "de-0981", "de-0982", "de-0983", "de-0984", "de-0985",
+    "de-0986", "de-0987", "de-0988", "de-0989", "de-0990",
+    "de-0991", "de-0992", "de-0993", "de-0994", "de-0995",
+    "de-0996", "de-0997", "de-0998", "de-0999", "de-1000"
+  ],
+  "german": [
+    "Eva erzählt mir das {{de-0952|Geheimnis}}. Es ist keine {{de-0951|Lüge}}, aber es war lange {{de-1000|Schweigen}}.",
+    "„Karl hatte eine {{de-0979|Kindheit}} ohne Vater“, sagt sie. „In seiner {{de-0978|Jugend}} war er in der Stadt. Es gab einen {{de-0954|Verdacht}}, aber keinen {{de-0953|Beweis}}.“",
+    "Der Arzt hat einen {{de-0955|Bericht}} geschrieben. Eine {{de-0956|Erklärung}} steht in der {{de-0969|Schrift}}, und der {{de-0974|Inhalt}} ist hart. Das {{de-0975|Thema}} ist alt.",
+    "„Ich mache dir einen {{de-0957|Vorschlag}}“, sagt Eva. „Wir schreiben einen {{de-0958|Antrag}} und bitten um {{de-0959|Erlaubnis}}. Ein {{de-0960|Verbot}} ist kein {{de-0961|Befehl}} für immer.“",
+    "Meine {{de-0962|Bitte}} ist einfach. Ich sage {{de-0963|Dank}} und einen {{de-0964|Gruß}}. Der {{de-0965|Rat}} von Eva ist gut, und die {{de-0966|Warnung}} von dem Beamten war ein {{de-0967|Hinweis}}.",
+    "Ein {{de-0968|Zeichen}} steht auf dem Papier. Der {{de-0970|Druck}} ist groß. Ich lese das {{de-0971|Kapitel}} mit dem {{de-0972|Titel}} und den ganzen {{de-0973|Text}} bis zum {{de-0976|Schluss}}.",
+    "„Es gibt keine {{de-0977|Ausnahme}}“, sagt der Richter. Aber es gibt einen {{de-0997|Zufall}}: der Arzt ist ein Bruder von Karl.",
+    "Das ist kein {{de-0998|Wunder}}, sondern {{de-0996|Schicksal}}. In der {{de-0999|Stille}} von dem Zimmer verstehe ich alles.",
+    "Karl hat eine {{de-0983|Seele}} und einen {{de-0984|Geist}}, die ich kenne. Sein {{de-0994|Charakter}} ist gut, und sein {{de-0995|Wesen}} ist still.",
+    "Eva spricht von {{de-0985|Gott}} und ihrem {{de-0986|Glauben}}. In der Kirche ist ein {{de-0982|Grab}} von einem Vater. Eine {{de-0981|Geburt}} und eine {{de-0980|Hochzeit}} sind auch in der Schrift.",
+    "In der Nacht habe ich einen {{de-0987|Traum}}: eine {{de-0988|Erinnerung}} an den ersten Tag. Mit {{de-0989|Aufmerksamkeit}} und {{de-0990|Verstand}} kann ich helfen. Die {{de-0991|Vernunft}} sagt eins, das Herz sagt etwas anderes. Zwischen {{de-0992|Weisheit}} und {{de-0993|Dummheit}} ist der Weg klein."
+  ],
+  "english": [
+    "Eva tells me the secret. It is not a lie, but it was a long silence.",
+    "\"Karl had a childhood without a father,\" she says. \"In his youth he was in the city. There was a suspicion, but no proof.\"",
+    "The doctor has written a report. An explanation stands in the writing, and the content is hard. The subject is old.",
+    "\"I will make you a suggestion,\" says Eva. \"We write an application and ask for permission. A ban is not an order for ever.\"",
+    "My request is simple. I say thanks and a greeting. Eva's advice is good, and the official's warning was a hint.",
+    "A sign stands on the paper. The pressure is great. I read the chapter with the title and the whole text to the end.",
+    "\"There is no exception,\" says the judge. But there is a coincidence: the doctor is a brother of Karl.",
+    "That is not a miracle, but fate. In the silence of the room I understand everything.",
+    "Karl has a soul and a mind that I know. His character is good, and his nature is quiet.",
+    "Eva speaks of God and her faith. In the church there is a grave of a father. A birth and a wedding are in the writing too.",
+    "In the night I have a dream: a memory of the first day. With attention and reason I can help. Reason says one thing, the heart says another. Between wisdom and stupidity the path is narrow."
+  ],
+  "grammar": {
+    "title": "Two words for silence, two for mind",
+    "body": "German often keeps separate words for a state and an act. Die Stille is silence as a condition of a place; das Schweigen is silence as something a person does — from schweigen, to keep quiet. Likewise der Verstand is the faculty of understanding, while die Vernunft is the good judgement you exercise with it. Nouns made from an infinitive, like das Schweigen, are always das.",
+    "examples": [
+      { "de": "die Stille im Zimmer — sein langes Schweigen", "en": "the silence in the room — his long silence (his not speaking)" },
+      { "de": "schweigen → das Schweigen; leben → das Leben", "en": "to be silent → silence; to live → life (infinitive nouns are das)" },
+      { "de": "Die Vernunft sagt eins, das Herz sagt etwas anderes.", "en": "Reason says one thing, the heart says another." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0952", "exampleDe": "Eva erzählt mir das ___.", "exampleEn": "Eva tells me the secret." },
+    { "wordId": "de-0954", "exampleDe": "Es gab einen ___, aber keinen Beweis.", "exampleEn": "There was a suspicion, but no proof." },
+    { "wordId": "de-0997", "exampleDe": "Es gibt einen ___: der Arzt ist ein Bruder von Karl.", "exampleEn": "There is a coincidence: the doctor is a brother of Karl." },
+    { "wordId": "de-0996", "exampleDe": "Das ist kein Wunder, sondern ___.", "exampleEn": "That is not a miracle, but fate." },
+    { "wordId": "de-1000", "exampleDe": "Es ist keine Lüge, aber es war langes ___.", "exampleEn": "It is not a lie, but it was a long silence." },
+    { "wordId": "de-0967", "exampleDe": "Die Warnung war ein ___.", "exampleEn": "The warning was a hint." },
+    { "wordId": "de-0991", "exampleDe": "Die ___ sagt eins, das Herz sagt etwas anderes.", "exampleEn": "Reason says one thing, the heart says another." },
+    { "wordId": "de-0977", "exampleDe": "Es gibt keine ___.", "exampleEn": "There is no exception." }
+  ],
+  "tip": "A thousand words, and the story can now hold a secret, a suspicion and a revelation. Look back at chapter 1 — four short paragraphs where nobody had a name. That distance is what the first third of the list buys you.",
+  "showCounter": true
+}

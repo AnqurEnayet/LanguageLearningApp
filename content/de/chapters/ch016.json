@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch016",
+  "order": 16,
+  "title": "Zwölf Stück am Tag",
+  "newWords": [
+    "de-0751", "de-0752", "de-0753", "de-0754", "de-0755",
+    "de-0756", "de-0757", "de-0758", "de-0759", "de-0760",
+    "de-0761", "de-0762", "de-0763", "de-0764", "de-0765",
+    "de-0766", "de-0767", "de-0768", "de-0769", "de-0770",
+    "de-0771", "de-0772", "de-0773", "de-0774", "de-0775",
+    "de-0776", "de-0777", "de-0778", "de-0779", "de-0780",
+    "de-0781", "de-0782", "de-0783", "de-0784", "de-0785",
+    "de-0786", "de-0787", "de-0788", "de-0789", "de-0790",
+    "de-0791", "de-0792", "de-0793", "de-0794", "de-0795",
+    "de-0796", "de-0797", "de-0798", "de-0799", "de-0800"
+  ],
+  "german": [
+    "Wir machen Käse. Ich zähle: {{de-0756|eins}}, {{de-0757|zwei}}, {{de-0758|drei}}, {{de-0759|vier}}, {{de-0760|fünf}}.",
+    "Karl rechnet: {{de-0761|sechs}} Teller, {{de-0762|sieben}} Gläser, {{de-0763|acht}} Messer, {{de-0764|neun}} Stühle, {{de-0765|zehn}} Bücher.",
+    "{{de-0766|Elf}} Leute arbeiten, {{de-0767|zwölf}} am Feiertag. {{de-0768|Zwanzig}} Stück kosten {{de-0769|hundert}}, und {{de-0770|tausend}} Stück sind ein Jahr Arbeit.",
+    "Das {{de-0771|zweite}} Jahr beginnt; das {{de-0772|dritte}} ist ein Plan. Der {{de-0773|letzte}} Tag im Herbst ist {{de-0774|halb}} warm. Wir arbeiten {{de-0775|doppelt}} so viel. Jedes {{de-0776|einzelne}} Stück wird geprüft. {{de-0777|Mehrere}} Nachbarn helfen, und die {{de-0778|gesamte}} Menge ist groß.",
+    "„Das ist {{de-0751|dein}} Käse“, sagt Karl zu mir, „und {{de-0754|unser}} Geschäft. {{de-0755|Euer}} Lohn kommt bald“, sagt er zu den Nachbarn. Eva zeigt mir {{de-0753|ihre}} Hand und Karl {{de-0752|seinen}} {{de-0779|Arm}}.",
+    "Karl hebt einen Stein. Plötzlich schreit er. {{de-0790|Blut}} läuft über die {{de-0792|Haut}} an seinem Arm. Die {{de-0797|Wunde}} ist tief, und der {{de-0796|Schmerz}} ist groß.",
+    "Eva wäscht den Arm. Karl hält die {{de-0788|Schulter}} und den {{de-0787|Rücken}} still. Sein {{de-0793|Körper}} ist kalt. Der {{de-0791|Knochen}} ist vielleicht gebrochen.",
+    "Ich sehe sein Gesicht: die {{de-0783|Nase}}, den {{de-0782|Mund}}, das {{de-0784|Haar}}, die {{de-0781|Ohren}}. Er hält die {{de-0786|Zähne}} zusammen und sagt nichts.",
+    "Karl kann gehen; das {{de-0780|Bein}} ist gut. Aber die {{de-0785|Finger}} sind kalt, der {{de-0789|Hals}} ist rot und der {{de-0800|Bauch}} hart.",
+    "„Wir brauchen {{de-0798|Medizin}}“, sagt Eva. „Vielleicht ein {{de-0799|Krankenhaus}} in der Stadt.“ Die {{de-0794|Gesundheit}} von Karl war immer gut; jetzt ist eine {{de-0795|Krankheit}} im Haus."
+  ],
+  "english": [
+    "We make cheese. I count: one, two, three, four, five.",
+    "Karl calculates: six plates, seven glasses, eight knives, nine chairs, ten books.",
+    "Eleven people work, twelve on a public holiday. Twenty pieces cost a hundred, and a thousand pieces are a year of work.",
+    "The second year begins; the third is a plan. The last day of autumn is half warm. We work twice as much. Every single piece is checked. Several neighbours help, and the total quantity is large.",
+    "\"That is your cheese,\" Karl says to me, \"and our business. Your pay is coming soon,\" he says to the neighbours. Eva shows me her hand and Karl his arm.",
+    "Karl lifts a stone. Suddenly he cries out. Blood runs over the skin on his arm. The wound is deep, and the pain is great.",
+    "Eva washes the arm. Karl holds his shoulder and his back still. His body is cold. The bone is perhaps broken.",
+    "I see his face: the nose, the mouth, the hair, the ears. He holds his teeth together and says nothing.",
+    "Karl can walk; the leg is fine. But his fingers are cold, his throat is red and his stomach hard.",
+    "\"We need medicine,\" says Eva. \"Perhaps a hospital in the city.\" Karl's health was always good; now there is illness in the house."
+  ],
+  "grammar": {
+    "title": "Possessives take the same endings as ein",
+    "body": "mein, dein, sein, ihr, unser and euer behave exactly like the article ein: the ending depends on the gender and case of the noun that follows, not on the owner. Note the trap in the sixth paragraph: sein means 'his' here, and is a completely different word from the verb sein you learned in chapter 1.",
+    "examples": [
+      { "de": "mein Arm, meine Hand, mein Bein", "en": "my arm, my hand, my leg (der/die/das)" },
+      { "de": "Karl zeigt mir seinen Arm.", "en": "Karl shows me his arm. (masculine accusative → seinen)" },
+      { "de": "Eva zeigt mir ihre Hand.", "en": "Eva shows me her hand." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0752", "exampleDe": "Karl zeigt mir ___ Arm.", "exampleEn": "Karl shows me his arm." },
+    { "wordId": "de-0753", "exampleDe": "Eva zeigt mir ___ Hand.", "exampleEn": "Eva shows me her hand." },
+    { "wordId": "de-0797", "exampleDe": "Die ___ ist tief.", "exampleEn": "The wound is deep." },
+    { "wordId": "de-0790", "exampleDe": "___ läuft über die Haut.", "exampleEn": "Blood runs over the skin." },
+    { "wordId": "de-0778", "exampleDe": "Die ___ Menge ist groß.", "exampleEn": "The total quantity is large." },
+    { "wordId": "de-0776", "exampleDe": "Jedes ___ Stück wird geprüft.", "exampleEn": "Every single piece is checked." },
+    { "wordId": "de-0793", "exampleDe": "Sein ___ ist kalt.", "exampleEn": "His body is cold." },
+    { "wordId": "de-0795", "exampleDe": "Jetzt ist eine ___ im Haus.", "exampleEn": "Now there is illness in the house." }
+  ],
+  "tip": "Sixteen chapters before the numbers arrive, which looks odd until you notice Jan never needed to count anything until he had a business. Watch out for sein: the possessive here is a different word from the verb, and only the sentence tells you which one you are looking at.",
+  "showCounter": true
+}

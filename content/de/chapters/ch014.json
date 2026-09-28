@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch014",
+  "order": 14,
+  "title": "Mein Fehler",
+  "newWords": [
+    "de-0651", "de-0652", "de-0653", "de-0654", "de-0655",
+    "de-0656", "de-0657", "de-0658", "de-0659", "de-0660",
+    "de-0661", "de-0662", "de-0663", "de-0664", "de-0665",
+    "de-0666", "de-0667", "de-0668", "de-0669", "de-0670",
+    "de-0671", "de-0672", "de-0673", "de-0674", "de-0675",
+    "de-0676", "de-0677", "de-0678", "de-0679", "de-0680",
+    "de-0681", "de-0682", "de-0683", "de-0684", "de-0685",
+    "de-0686", "de-0687", "de-0688", "de-0689", "de-0690",
+    "de-0691", "de-0692", "de-0693", "de-0694", "de-0695",
+    "de-0696", "de-0697", "de-0698", "de-0699", "de-0700"
+  ],
+  "german": [
+    "Der Herr im Amt {{de-0662|prüft}} die Rechnung und {{de-0663|untersucht}} den Vertrag. „Das {{de-0651|betrifft}} nicht Sie“, sagt er.",
+    "Ich {{de-0685|behaupte}}, dass Karl nichts {{de-0687|zugeben}} muss, und ich will das {{de-0686|beweisen}}. Der Herr {{de-0684|widerspricht}} mir. Er will meinen Wunsch {{de-0683|ablehnen}}.",
+    "„Ich {{de-0674|warne}} Sie“, sagt er und {{de-0675|droht}} mit einer Strafe. Ich {{de-0677|verteidige}} Karl und {{de-0679|kämpfe}} mit Wörtern, aber ich {{de-0680|siege}} nicht.",
+    "Dann {{de-0664|entdecke}} ich meinen Fehler. Ich habe die Rechnung falsch gelesen: Karl hat nichts {{de-0688|geleugnet}}, er hat schon alles {{de-0689|gestanden}}. Ich habe den Herrn {{de-0678|angegriffen}}, ohne es zu wissen.",
+    "Ich {{de-0691|entschuldige}} mich. „{{de-0690|Verzeihen}} Sie“, sage ich. Der Herr {{de-0695|urteilt}} nicht hart. Er {{de-0673|rät}} mir und {{de-0672|empfiehlt}} einen Plan.",
+    "Die Firma {{de-0669|verlangt}} Geld und {{de-0670|fordert}} es bald. Aber der Herr will mir etwas {{de-0671|anbieten}}: Karl kann in Teilen zahlen. Ich will sofort {{de-0682|zustimmen}}.",
+    "Zuerst muss ich {{de-0697|überlegen}} und {{de-0698|nachdenken}}. Ich {{de-0696|meine}} es ernst. Was ich {{de-0699|erwarte}}, kann ich vielleicht {{de-0700|erreichen}}.",
+    "Ich {{de-0659|plane}} die Arbeit. Ich muss alles {{de-0660|vorbereiten}} und die Leute {{de-0661|leiten}}. Karl will nicht {{de-0681|aufgeben}}.",
+    "Wir wollen Käse {{de-0666|herstellen}} und in die Stadt {{de-0667|liefern}}. Ein Laden will schon {{de-0668|bestellen}}. Das {{de-0654|verändert}} alles.",
+    "Eva {{de-0693|lobt}} mich, und Karl {{de-0694|kritisiert}} mich — beides ist richtig. Ich {{de-0692|danke}} ihnen.",
+    "Die Arbeit {{de-0652|verbindet}} uns; ein Fehler kann uns {{de-0653|trennen}}. Wir {{de-0655|entwickeln}} einen Plan, {{de-0656|verbessern}} ihn und {{de-0657|steigern}} die Menge. Karl {{de-0658|bestimmt}}, was wir machen. Ich habe nichts {{de-0665|erfunden}}, aber ich will das Haus {{de-0676|schützen}}."
+  ],
+  "english": [
+    "The gentleman at the office checks the bill and investigates the contract. \"That does not concern you,\" he says.",
+    "I claim that Karl has nothing to admit, and I want to prove it. The gentleman contradicts me. He wants to refuse my request.",
+    "\"I warn you,\" he says, and threatens a penalty. I defend Karl and fight with words, but I do not win.",
+    "Then I discover my mistake. I had read the bill wrongly: Karl denied nothing, he had already confessed everything. I attacked the gentleman without knowing it.",
+    "I apologise. \"Forgive me,\" I say. The gentleman does not judge harshly. He advises me and recommends a plan.",
+    "The company demands money and wants it soon. But the gentleman wants to offer me something: Karl can pay in parts. I want to agree at once.",
+    "First I have to consider and reflect. I mean it seriously. What I expect, I may perhaps achieve.",
+    "I plan the work. I have to prepare everything and lead the people. Karl does not want to give up.",
+    "We want to produce cheese and deliver it to the city. A shop already wants to order. That changes everything.",
+    "Eva praises me, and Karl criticises me — both are right. I thank them.",
+    "The work connects us; a mistake can separate us. We develop a plan, improve it and increase the quantity. Karl decides what we do. I have invented nothing, but I want to protect the house."
+  ],
+  "grammar": {
+    "title": "The perfect tense: haben plus a past participle at the end",
+    "body": "To talk about the past in speech, German overwhelmingly uses the perfect: a form of haben (or sein) in second position, and the participle thrown to the very end. Weak verbs build the participle as ge-…-t; strong verbs as ge-…-en with a vowel change. Verbs beginning with be-, ver-, ent- or er- take no ge- at all.",
+    "examples": [
+      { "de": "Ich habe die Rechnung falsch gelesen.", "en": "I read the bill wrongly. (lesen → gelesen)" },
+      { "de": "Er hat alles gestanden.", "en": "He confessed everything." },
+      { "de": "Ich habe nichts erfunden.", "en": "I have invented nothing. (er- → no ge-)" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0685", "exampleDe": "Ich ___, dass Karl nichts zugeben muss.", "exampleEn": "I claim that Karl has nothing to admit." },
+    { "wordId": "de-0684", "exampleDe": "Der Herr ___ mir.", "exampleEn": "The gentleman contradicts me." },
+    { "wordId": "de-0689", "exampleDe": "Er hat schon alles ___.", "exampleEn": "He had already confessed everything." },
+    { "wordId": "de-0691", "exampleDe": "Ich ___ mich.", "exampleEn": "I apologise." },
+    { "wordId": "de-0682", "exampleDe": "Ich will sofort ___.", "exampleEn": "I want to agree at once." },
+    { "wordId": "de-0698", "exampleDe": "Zuerst muss ich überlegen und ___.", "exampleEn": "First I have to consider and reflect." },
+    { "wordId": "de-0700", "exampleDe": "Was ich erwarte, kann ich vielleicht ___.", "exampleEn": "What I expect, I may perhaps achieve." },
+    { "wordId": "de-0681", "exampleDe": "Karl will nicht ___.", "exampleEn": "Karl does not want to give up." }
+  ],
+  "tip": "Jan was fluent enough to be confidently wrong. The chapter turns on the moment he stops defending and says Verzeihen Sie — which costs two words and buys back the conversation.",
+  "showCounter": true
+}

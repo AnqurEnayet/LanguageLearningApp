@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch019",
+  "order": 19,
+  "title": "Die Bank in der Stadt",
+  "newWords": [
+    "de-0901", "de-0902", "de-0903", "de-0904", "de-0905",
+    "de-0906", "de-0907", "de-0908", "de-0909", "de-0910",
+    "de-0911", "de-0912", "de-0913", "de-0914", "de-0915",
+    "de-0916", "de-0917", "de-0918", "de-0919", "de-0920",
+    "de-0921", "de-0922", "de-0923", "de-0924", "de-0925",
+    "de-0926", "de-0927", "de-0928", "de-0929", "de-0930",
+    "de-0931", "de-0932", "de-0933", "de-0934", "de-0935",
+    "de-0936", "de-0937", "de-0938", "de-0939", "de-0940",
+    "de-0941", "de-0942", "de-0943", "de-0944", "de-0945",
+    "de-0946", "de-0947", "de-0948", "de-0949", "de-0950"
+  ],
+  "german": [
+    "{{de-0901|Sobald}} Karl besser ist, arbeiten wir wieder. {{de-0902|Solange}} er leidet, mache ich alles. {{de-0903|Seitdem}} der Arzt hier war, ist die Stimmung schlecht.",
+    "{{de-0904|Bevor}} ich in die Stadt fahre, prüfe ich die Ware. {{de-0905|Nachdem}} ich alles verkauft habe, gehe ich zur {{de-0938|Bank}}. {{de-0906|Während}} ich warte, lese ich einen Brief.",
+    "Der Mann in der Bank fragt, {{de-0908|ob}} ich ein {{de-0937|Konto}} habe. {{de-0907|Falls}} das Geschäft gut geht, will er mir einen {{de-0939|Kredit}} geben.",
+    "Das {{de-0933|Geschäft}} ist klein, aber der {{de-0934|Gewinn}} ist {{de-0909|wenigstens}} groß genug. Ein {{de-0935|Verlust}} ist {{de-0910|höchstens}} ein Monat Arbeit.",
+    "Die {{de-0936|Miete}} für den Laden und die {{de-0940|Steuer}} für den {{de-0932|Handel}} kosten viel. {{de-0911|Immerhin}} habe ich {{de-0929|Kunden}}: ein {{de-0930|Verkäufer}} in der Stadt nimmt meine {{de-0931|Ware}}.",
+    "{{de-0912|Jedenfalls}} ist das Geld da. {{de-0913|Sonst}} verkaufen wir das Haus. {{de-0914|Stattdessen}} bauen wir jetzt mehr.",
+    "Ein {{de-0941|Beamter}} kommt in den Laden. {{de-0915|Dagegen}} kann ich nichts machen. Er will die Rechnungen sehen. {{de-0916|Dazu}} kommt eine Frage über den Arzt. {{de-0917|Dabei}} wird mir kalt.",
+    "„Die {{de-0942|Polizei}} sucht einen {{de-0948|Dieb}}“, sagt er. „Ein {{de-0947|Verbrechen}} in der Stadt. Ein {{de-0943|Richter}} und ein {{de-0946|Anwalt}} arbeiten schon, und das {{de-0944|Gericht}} braucht einen {{de-0945|Zeugen}}.“",
+    "{{de-0918|Daher}} verstehe ich den Streit von {{de-0923|damals}}. {{de-0919|Dennoch}} sage ich nichts. {{de-0920|Inzwischen}} ist ein Jahr passiert.",
+    "{{de-0921|Vorher}} war ich fremd; {{de-0922|nachher}} werde ich vielleicht ein Zeuge sein. {{de-0924|Neulich}} habe ich den Arzt gesehen. Ich denke {{de-0925|ständig}} an ihn und arbeite {{de-0926|regelmäßig}} weiter.",
+    "{{de-0927|Allmählich}} verstehe ich: die {{de-0949|Vergangenheit}} von Karl ist nicht die {{de-0950|Gegenwart}}. {{de-0928|Schließlich}} bin ich hier, und das ist genug."
+  ],
+  "english": [
+    "As soon as Karl is better, we will work again. As long as he suffers, I do everything. Ever since the doctor was here, the mood has been bad.",
+    "Before I drive into the city, I check the goods. After I have sold everything, I go to the bank. While I wait, I read a letter.",
+    "The man at the bank asks whether I have an account. If the business goes well, he will give me a loan.",
+    "The business is small, but the profit is at least big enough. A loss is at most one month of work.",
+    "The rent for the shop and the tax on the trade cost a lot. At any rate I have customers: a salesman in the city takes my goods.",
+    "In any case the money is there. Otherwise we would sell the house. Instead we are building more now.",
+    "An official comes into the shop. There is nothing I can do about it. He wants to see the bills. On top of that comes a question about the doctor. At that, I go cold.",
+    "\"The police are looking for a thief,\" he says. \"A crime in the city. A judge and a lawyer are already working, and the court needs a witness.\"",
+    "Hence I understand the argument from back then. Nevertheless I say nothing. Meanwhile a year has passed.",
+    "Before, I was a stranger; afterwards I may be a witness. Recently I saw the doctor. I think about him constantly and go on working regularly.",
+    "Gradually I understand: Karl's past is not the present. After all, I am here, and that is enough."
+  ],
+  "grammar": {
+    "title": "ob is not wenn — the two halves of English 'if'",
+    "body": "English 'if' does two jobs and German splits them. Use ob for an indirect question, where the answer could be yes or no. Use wenn or falls for a condition. Both send the verb to the end, so the only signal is the word you pick.",
+    "examples": [
+      { "de": "Er fragt, ob ich ein Konto habe.", "en": "He asks whether I have an account. (indirect question)" },
+      { "de": "Falls das Geschäft gut geht, gibt er mir einen Kredit.", "en": "If the business goes well, he will give me a loan. (condition)" },
+      { "de": "Nachdem ich alles verkauft habe, gehe ich zur Bank.", "en": "After I have sold everything, I go to the bank." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0908", "exampleDe": "Er fragt, ___ ich ein Konto habe.", "exampleEn": "He asks whether I have an account." },
+    { "wordId": "de-0907", "exampleDe": "___ das Geschäft gut geht, gibt er mir einen Kredit.", "exampleEn": "If the business goes well, he gives me a loan." },
+    { "wordId": "de-0905", "exampleDe": "___ ich alles verkauft habe, gehe ich zur Bank.", "exampleEn": "After I have sold everything, I go to the bank." },
+    { "wordId": "de-0903", "exampleDe": "___ der Arzt hier war, ist die Stimmung schlecht.", "exampleEn": "Ever since the doctor was here, the mood has been bad." },
+    { "wordId": "de-0919", "exampleDe": "___ sage ich nichts.", "exampleEn": "Nevertheless I say nothing." },
+    { "wordId": "de-0945", "exampleDe": "Das Gericht braucht einen ___.", "exampleEn": "The court needs a witness." },
+    { "wordId": "de-0927", "exampleDe": "___ verstehe ich alles.", "exampleEn": "Gradually I understand everything." },
+    { "wordId": "de-0949", "exampleDe": "Die ___ von Karl ist nicht die Gegenwart.", "exampleEn": "Karl's past is not the present." }
+  ],
+  "tip": "These little words — dennoch, immerhin, stattdessen, daher — are what make German sound like a person rather than a textbook. They carry almost no meaning on their own and do almost all the work of tone.",
+  "showCounter": true
+}

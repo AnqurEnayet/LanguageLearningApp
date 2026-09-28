@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch010",
+  "order": 10,
+  "title": "Markttag",
+  "newWords": [
+    "de-0451", "de-0452", "de-0453", "de-0454", "de-0455",
+    "de-0456", "de-0457", "de-0458", "de-0459", "de-0460",
+    "de-0461", "de-0462", "de-0463", "de-0464", "de-0465",
+    "de-0466", "de-0467", "de-0468", "de-0469", "de-0470",
+    "de-0471", "de-0472", "de-0473", "de-0474", "de-0475",
+    "de-0476", "de-0477", "de-0478", "de-0479", "de-0480",
+    "de-0481", "de-0482", "de-0483", "de-0484", "de-0485",
+    "de-0486", "de-0487", "de-0488", "de-0489", "de-0490",
+    "de-0491", "de-0492", "de-0493", "de-0494", "de-0495",
+    "de-0496", "de-0497", "de-0498", "de-0499", "de-0500"
+  ],
+  "german": [
+    "Im Sommer gehen wir auf den {{de-0467|Markt}}. Karl nimmt den {{de-0472|Wagen}} und das {{de-0473|Pferd}}.",
+    "Auf dem Markt ist ein {{de-0468|Laden}}. Eva kauft {{de-0463|Fleisch}}, {{de-0493|Obst}} und {{de-0494|Gemüse}}. Sie zahlt und legt alles in die {{de-0459|Tasche}}.",
+    "In der {{de-0452|Küche}} kocht Eva eine {{de-0492|Suppe}}. Auf dem Tisch stehen ein {{de-0461|Glas}}, ein {{de-0462|Teller}} und ein {{de-0460|Messer}}. Sie gibt {{de-0464|Salz}} in die Suppe, und ich hole {{de-0499|Butter}} und {{de-0500|Käse}}.",
+    "Karl trinkt {{de-0465|Kaffee}} am Morgen und {{de-0466|Wein}} am Abend. Mila trinkt {{de-0496|Tee}} mit {{de-0495|Zucker}}. Ein {{de-0488|Nachbar}} bringt {{de-0497|Bier}}.",
+    "Das neue Zimmer hat ein {{de-0453|Dach}}, eine {{de-0454|Wand}} und einen {{de-0455|Boden}}. Ich habe einen {{de-0456|Schlüssel}} für die Tür. Das ist meine {{de-0451|Wohnung}}.",
+    "Mila trägt ein {{de-0457|Kleid}} und neue {{de-0458|Schuhe}}. Karl trägt einen {{de-0498|Hut}}.",
+    "Hinter dem Haus ist ein {{de-0485|Hof}} mit einem {{de-0474|Hund}} und einer {{de-0475|Katze}}. Ein {{de-0476|Vogel}} sitzt auf der {{de-0484|Mauer}}. Im Fluss ist ein {{de-0477|Fisch}}. Ein {{de-0478|Tier}} ist auch ein Nachbar, sagt Mila.",
+    "Auf dem {{de-0480|Feld}} und der {{de-0481|Wiese}} wächst {{de-0479|Gras}}. Ein {{de-0486|Bauer}} arbeitet auf dem Feld. Über den Fluss geht eine {{de-0482|Brücke}}, und im Dorf steht eine {{de-0469|Kirche}} mit einem {{de-0483|Turm}}.",
+    "Am {{de-0470|Bahnhof}} kommt ein {{de-0471|Zug}} an. Ein {{de-0490|Herr}} und eine {{de-0491|Dame}} steigen aus: {{de-0489|Gäste}} für das Dorf. Ein {{de-0487|Arzt}} ist auch im Zug."
+  ],
+  "english": [
+    "In summer we go to the market. Karl takes the cart and the horse.",
+    "At the market there is a shop. Eva buys meat, fruit and vegetables. She pays and puts everything into the bag.",
+    "In the kitchen Eva cooks a soup. On the table stand a glass, a plate and a knife. She puts salt into the soup, and I fetch butter and cheese.",
+    "Karl drinks coffee in the morning and wine in the evening. Mila drinks tea with sugar. A neighbour brings beer.",
+    "The new room has a roof, a wall and a floor. I have a key for the door. This is my home.",
+    "Mila wears a dress and new shoes. Karl wears a hat.",
+    "Behind the house is a yard with a dog and a cat. A bird sits on the wall. In the river there is a fish. An animal is a neighbour too, says Mila.",
+    "In the field and the meadow grass grows. A farmer works in the field. A bridge crosses the river, and in the village stands a church with a tower.",
+    "At the station a train arrives. A gentleman and a lady get out: guests for the village. A doctor is on the train too."
+  ],
+  "grammar": {
+    "title": "Two words for wall, two for room — German splits what English joins",
+    "body": "Where English uses one word, German often keeps two and will not let you swap them. Die Wand is an inside wall; die Mauer is an outside one of stone. Das Zimmer is a room you live in; der Raum is space or a room in the abstract. Do not translate word for word — ask which situation the word belongs to.",
+    "examples": [
+      { "de": "die Wand im Zimmer — die Mauer um den Hof", "en": "the wall in the room — the wall around the yard" },
+      { "de": "Das Zimmer ist klein. Der Raum ist groß.", "en": "The room is small. The space is large." },
+      { "de": "Ich wohne in einer Wohnung.", "en": "I live in a flat." }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0456", "exampleDe": "Ich habe einen ___ für die Tür.", "exampleEn": "I have a key for the door." },
+    { "wordId": "de-0451", "exampleDe": "Das ist meine ___.", "exampleEn": "This is my home." },
+    { "wordId": "de-0488", "exampleDe": "Ein ___ bringt Bier.", "exampleEn": "A neighbour brings beer." },
+    { "wordId": "de-0484", "exampleDe": "Ein Vogel sitzt auf der ___.", "exampleEn": "A bird sits on the wall." },
+    { "wordId": "de-0482", "exampleDe": "Über den Fluss geht eine ___.", "exampleEn": "A bridge crosses the river." },
+    { "wordId": "de-0489", "exampleDe": "Ein Herr und eine Dame: ___ für das Dorf.", "exampleEn": "A gentleman and a lady: guests for the village." },
+    { "wordId": "de-0478", "exampleDe": "Ein ___ ist auch ein Nachbar.", "exampleEn": "An animal is a neighbour too." },
+    { "wordId": "de-0467", "exampleDe": "Im Sommer gehen wir auf den ___.", "exampleEn": "In summer we go to the market." }
+  ],
+  "tip": "Jan now has a key of his own — the quiet turning point of the first ten chapters. Note that the guests arriving by train are not decoration: keep an eye on them.",
+  "showCounter": true
+}

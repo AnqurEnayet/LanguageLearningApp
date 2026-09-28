@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0f766e"/>
+  <rect x="96" y="150" width="320" height="96" rx="12" fill="#fbdb3a"/>
+  <text x="256" y="228" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="bold" fill="#000000" text-anchor="middle">Wort</text>
+  <rect x="96" y="344" width="320" height="22" rx="11" fill="#0b5e58"/>
+  <rect x="96" y="344" width="188" height="22" rx="11" fill="#fbdb3a"/>
+</svg>

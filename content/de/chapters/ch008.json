@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch008",
+  "order": 8,
+  "title": "Der Brief",
+  "newWords": [
+    "de-0351", "de-0352", "de-0353", "de-0354", "de-0355",
+    "de-0356", "de-0357", "de-0358", "de-0359", "de-0360",
+    "de-0361", "de-0362", "de-0363", "de-0364", "de-0365",
+    "de-0366", "de-0367", "de-0368", "de-0369", "de-0370",
+    "de-0371", "de-0372", "de-0373", "de-0374", "de-0375",
+    "de-0376", "de-0377", "de-0378", "de-0379", "de-0380",
+    "de-0381", "de-0382", "de-0383", "de-0384", "de-0385",
+    "de-0386", "de-0387", "de-0388", "de-0389", "de-0390",
+    "de-0391", "de-0392", "de-0393", "de-0394", "de-0395",
+    "de-0396", "de-0397", "de-0398", "de-0399", "de-0400"
+  ],
+  "german": [
+    "Ich schreibe einen {{de-0398|Brief}}. Das {{de-0397|Papier}} ist dünn, und die {{de-0394|Luft}} im Zimmer ist kalt. Ein {{de-0392|Schatten}} liegt auf dem Tisch.",
+    "In dem Brief steht ein {{de-0351|Gedanke}}: die {{de-0359|Wahrheit}} ist, dass ich {{de-0353|Angst}} hatte. Jetzt habe ich {{de-0355|Hoffnung}} und ein {{de-0352|Gefühl}} von {{de-0356|Glück}}.",
+    "Eva hat {{de-0357|Kraft}} und {{de-0384|Mut}}. Karl hat {{de-0385|Ruhe}}. Sie geben mir das {{de-0358|Recht}}, hier zu leben. Das ist {{de-0354|Liebe}}, glaube ich.",
+    "Ich mache einen {{de-0372|Plan}} mit einem {{de-0371|Ziel}}. {{de-0373|Schritt}} für Schritt: das ist die {{de-0376|Regel}}. Ein {{de-0375|Fehler}} ist kein {{de-0381|Problem}}, wenn ich ihn sehe.",
+    "Die {{de-0360|Zahl}} von Wörtern wird groß. Ein {{de-0361|Stück}} von einem Buch, ein {{de-0362|Punkt}} auf einer Seite, die {{de-0367|Hälfte}} von einem Satz — der {{de-0368|Rest}} kommt bald.",
+    "Mila hat eine {{de-0382|Idee}} und eine {{de-0383|Meinung}}: „Du hast {{de-0374|Erfolg}}“, sagt sie. Der {{de-0369|Preis}} ist hoch, aber der {{de-0370|Wert}} auch.",
+    "Wir sitzen in der {{de-0364|Mitte}} von dem Dorf, eine {{de-0365|Gruppe}} von Leuten und ein {{de-0366|Paar}} Kinder. Die {{de-0377|Ordnung}} ist einfach: jeder hat eine {{de-0378|Stelle}}.",
+    "In welcher {{de-0379|Richtung}} geht die {{de-0388|Zukunft}}? An der {{de-0380|Grenze}} von dem Wald liegt ein {{de-0396|Stein}} auf der {{de-0395|Erde}}.",
+    "Karl liest eine {{de-0399|Zeitung}}. Eine {{de-0400|Nachricht}} von dem {{de-0386|Tod}} von einem Mann aus dem Dorf. Einen {{de-0389|Augenblick}} lang ist kein {{de-0393|Ton}} im Zimmer.",
+    "Das {{de-0387|Alter}} hat eine {{de-0363|Form}}, und der {{de-0390|Sinn}} von einem Leben ist nicht ein {{de-0391|Ruf}}, sondern eine Geschichte."
+  ],
+  "english": [
+    "I am writing a letter. The paper is thin, and the air in the room is cold. A shadow lies on the table.",
+    "In the letter there is one thought: the truth is that I was afraid. Now I have hope and a feeling of happiness.",
+    "Eva has strength and courage. Karl has calm. They give me the right to live here. That is love, I think.",
+    "I make a plan with a goal. Step by step: that is the rule. A mistake is not a problem, if I see it.",
+    "The number of words is growing. A piece of a book, a dot on a page, half of a sentence — the rest will come soon.",
+    "Mila has an idea and an opinion: \"You are succeeding,\" she says. The price is high, but so is the value.",
+    "We sit in the middle of the village, a group of people and a couple of children. The order is simple: everyone has a place.",
+    "In which direction does the future go? At the edge of the forest a stone lies on the ground.",
+    "Karl reads a newspaper. News of the death of a man from the village. For a moment there is no sound in the room.",
+    "Age has a shape, and the meaning of a life is not a reputation, but a story."
+  ],
+  "grammar": {
+    "title": "Building abstract nouns from words you already have",
+    "body": "German makes abstract nouns with a few reliable endings, and every one of them fixes the gender for you. Nouns in -ung, -heit and -keit are always die; nouns in -nis and -tum are das. Once you see the ending you never have to guess the article again.",
+    "examples": [
+      { "de": "hoffen → die Hoffnung", "en": "to hope → hope (-ung is always die)" },
+      { "de": "wahr → die Wahrheit", "en": "true → truth (-heit is always die)" },
+      { "de": "ordnen → die Ordnung, richten → die Richtung", "en": "to order → order, to direct → direction" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0359", "exampleDe": "Die ___ ist, dass ich Angst hatte.", "exampleEn": "The truth is that I was afraid." },
+    { "wordId": "de-0353", "exampleDe": "Ich hatte ___.", "exampleEn": "I was afraid." },
+    { "wordId": "de-0384", "exampleDe": "Eva hat Kraft und ___.", "exampleEn": "Eva has strength and courage." },
+    { "wordId": "de-0375", "exampleDe": "Ein ___ ist kein Problem, wenn ich ihn sehe.", "exampleEn": "A mistake is not a problem if I see it." },
+    { "wordId": "de-0373", "exampleDe": "___ für Schritt: das ist die Regel.", "exampleEn": "Step by step: that is the rule." },
+    { "wordId": "de-0389", "exampleDe": "Einen ___ lang ist kein Ton im Zimmer.", "exampleEn": "For a moment there is no sound in the room." },
+    { "wordId": "de-0390", "exampleDe": "Der ___ von einem Leben ist eine Geschichte.", "exampleEn": "The meaning of a life is a story." },
+    { "wordId": "de-0388", "exampleDe": "In welcher Richtung geht die ___?", "exampleEn": "In which direction does the future go?" }
+  ],
+  "tip": "Concrete words name what you can point at; these name what you can only think. Jan needed 350 words before he could write a letter about fear and hope — that is the real threshold this chapter crosses.",
+  "showCounter": true
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch013",
+  "order": 13,
+  "title": "Die Rechnung",
+  "newWords": [
+    "de-0601", "de-0602", "de-0603", "de-0604", "de-0605",
+    "de-0606", "de-0607", "de-0608", "de-0609", "de-0610",
+    "de-0611", "de-0612", "de-0613", "de-0614", "de-0615",
+    "de-0616", "de-0617", "de-0618", "de-0619", "de-0620",
+    "de-0621", "de-0622", "de-0623", "de-0624", "de-0625",
+    "de-0626", "de-0627", "de-0628", "de-0629", "de-0630",
+    "de-0631", "de-0632", "de-0633", "de-0634", "de-0635",
+    "de-0636", "de-0637", "de-0638", "de-0639", "de-0640",
+    "de-0641", "de-0642", "de-0643", "de-0644", "de-0645",
+    "de-0646", "de-0647", "de-0648", "de-0649", "de-0650"
+  ],
+  "german": [
+    "Nach dem Fest ist die {{de-0603|Stimmung}} schlecht. Es gibt einen {{de-0615|Streit}} zwischen Karl und dem Arzt. Ich will ein {{de-0601|Gespräch}}, aber niemand spricht mit mir.",
+    "Eva erklärt es mir langsam: Karl hat eine {{de-0625|Rechnung}} nicht gezahlt. Es gibt einen {{de-0626|Vertrag}} mit einer {{de-0623|Firma}} in der Stadt, und Karl hat {{de-0638|Schuld}}.",
+    "„Das ist eine {{de-0640|Gefahr}}“, sagt sie. „Das {{de-0617|Gesetz}} ist hart. Ein {{de-0621|Amt}} in der Stadt kann eine {{de-0639|Strafe}} verlangen.“ Ich habe {{de-0649|Sorge}} und {{de-0614|Zweifel}}.",
+    "Der Arzt fragt nach meinem {{de-0622|Beruf}}. Ich habe keinen. Der {{de-0624|Lohn}} von der Arbeit ist klein, aber die {{de-0605|Erfahrung}} ist groß.",
+    "Mein {{de-0606|Wissen}} ist neu. Ich hatte keine {{de-0607|Bildung}} und keinen {{de-0608|Unterricht}}, nur {{de-0610|Übung}} an jedem Abend. Das ist eine {{de-0604|Gewohnheit}} geworden.",
+    "Karl gibt mir eine {{de-0609|Aufgabe}}: „Geh in die Stadt.“ Das ist eine {{de-0611|Prüfung}}, und ich will eine {{de-0613|Lösung}} finden. Das {{de-0612|Ergebnis}} ist wichtig.",
+    "In der Stadt sehe ich das {{de-0619|Volk}} und die {{de-0620|Gesellschaft}}: ein {{de-0618|Staat}} mit Regeln. Der {{de-0627|Unterschied}} zwischen dem Dorf und der Stadt ist groß.",
+    "Ich halte eine {{de-0602|Rede}} vor einem Herrn im Amt. Meine {{de-0631|Absicht}} ist gut, und mein {{de-0632|Wunsch}} ist einfach: {{de-0616|Frieden}}. Aber die {{de-0630|Bedeutung}} von einem Wort ist falsch.",
+    "Der Herr hat kein {{de-0633|Interesse}} und keine {{de-0634|Geduld}}. Er zeigt keinen {{de-0636|Respekt}}. Die {{de-0628|Beziehung}} zwischen uns ist kalt, und ich verliere das {{de-0635|Vertrauen}}.",
+    "Ich bin kein {{de-0646|Held}}. Der Herr ist kein {{de-0647|Feind}}, und das ist kein {{de-0643|Krieg}}. Aber es ist ein {{de-0644|Kampf}}, und ich will den {{de-0645|Sieg}}.",
+    "Die {{de-0648|Mühe}} ist groß und die {{de-0650|Freude}} klein. Ich suche eine {{de-0629|Verbindung}} zu dem Mann: {{de-0637|Ehre}} für Karl, {{de-0641|Schutz}} für Eva, eine {{de-0642|Rettung}} für das Haus."
+  ],
+  "english": [
+    "After the celebration the mood is bad. There is an argument between Karl and the doctor. I want a conversation, but nobody speaks with me.",
+    "Eva explains it to me slowly: Karl has not paid a bill. There is a contract with a company in the city, and Karl is at fault.",
+    "\"That is a danger,\" she says. \"The law is hard. An office in the city can demand a penalty.\" I feel worry and doubt.",
+    "The doctor asks about my profession. I have none. The pay from the work is small, but the experience is great.",
+    "My knowledge is new. I had no education and no lessons, only practice every evening. That has become a habit.",
+    "Karl gives me a task: \"Go into the city.\" It is a test, and I want to find a solution. The result matters.",
+    "In the city I see the people and society: a state with rules. The difference between the village and the city is large.",
+    "I make a speech before a gentleman at the office. My intention is good, and my wish is simple: peace. But the meaning of one word is wrong.",
+    "The gentleman has no interest and no patience. He shows no respect. The relationship between us is cold, and I lose his trust.",
+    "I am no hero. The gentleman is no enemy, and this is no war. But it is a struggle, and I want the victory.",
+    "The effort is great and the joy small. I look for a connection to the man: honour for Karl, protection for Eva, a rescue for the house."
+  ],
+  "grammar": {
+    "title": "Noun endings that hand you the gender for free",
+    "body": "Almost every noun in this chapter is abstract, and abstract nouns are the easiest gender in German because the suffix decides it. Anything ending in -ung, -heit, -keit, -schaft or -ei is die, without exception worth worrying about. Anything in -nis or -tum is das. Learn the suffix once and you have learned a thousand articles.",
+    "examples": [
+      { "de": "die Bildung, die Übung, die Prüfung, die Lösung", "en": "education, practice, test, solution (-ung → die)" },
+      { "de": "die Gewohnheit, die Gesellschaft", "en": "habit, society (-heit, -schaft → die)" },
+      { "de": "das Ergebnis, das Gesetz", "en": "result, law" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0638", "exampleDe": "Karl hat ___.", "exampleEn": "Karl is at fault." },
+    { "wordId": "de-0625", "exampleDe": "Karl hat eine ___ nicht gezahlt.", "exampleEn": "Karl has not paid a bill." },
+    { "wordId": "de-0614", "exampleDe": "Ich habe Sorge und ___.", "exampleEn": "I have worry and doubt." },
+    { "wordId": "de-0630", "exampleDe": "Die ___ von einem Wort ist falsch.", "exampleEn": "The meaning of one word is wrong." },
+    { "wordId": "de-0627", "exampleDe": "Der ___ zwischen dem Dorf und der Stadt ist groß.", "exampleEn": "The difference between the village and the city is large." },
+    { "wordId": "de-0635", "exampleDe": "Ich verliere das ___.", "exampleEn": "I lose the trust." },
+    { "wordId": "de-0605", "exampleDe": "Der Lohn ist klein, aber die ___ ist groß.", "exampleEn": "The pay is small, but the experience is great." },
+    { "wordId": "de-0613", "exampleDe": "Ich will eine ___ finden.", "exampleEn": "I want to find a solution." }
+  ],
+  "tip": "Read the eighth paragraph twice. Jan's German is good enough to make a speech and still not good enough to get one word right — and that one word is the whole chapter. This is the stage every learner reaches and nobody warns you about.",
+  "showCounter": true
+}

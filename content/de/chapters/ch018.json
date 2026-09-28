@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "de-ch018",
+  "order": 18,
+  "title": "Die Nacht durch",
+  "newWords": [
+    "de-0851", "de-0852", "de-0853", "de-0854", "de-0855",
+    "de-0856", "de-0857", "de-0858", "de-0859", "de-0860",
+    "de-0861", "de-0862", "de-0863", "de-0864", "de-0865",
+    "de-0866", "de-0867", "de-0868", "de-0869", "de-0870",
+    "de-0871", "de-0872", "de-0873", "de-0874", "de-0875",
+    "de-0876", "de-0877", "de-0878", "de-0879", "de-0880",
+    "de-0881", "de-0882", "de-0883", "de-0884", "de-0885",
+    "de-0886", "de-0887", "de-0888", "de-0889", "de-0890",
+    "de-0891", "de-0892", "de-0893", "de-0894", "de-0895",
+    "de-0896", "de-0897", "de-0898", "de-0899", "de-0900"
+  ],
+  "german": [
+    "Karl {{de-0871|leidet}}. Er {{de-0873|zittert}} und {{de-0876|schwitzt}}. Er {{de-0875|hustet}} in der Nacht und kann nicht gut {{de-0874|atmen}}.",
+    "Ich {{de-0872|spüre}} Angst. Ich {{de-0878|erschrecke}}, wenn er ruft. Eva will ihn {{de-0879|beruhigen}} und {{de-0880|trösten}}. Sie {{de-0881|umarmt}} ihn.",
+    "Der Arzt kommt {{de-0894|zurück}}. Er will Karl {{de-0870|behandeln}} und die Wunde {{de-0868|heilen}}. „Ich werde ihn {{de-0869|pflegen}}“, sagt Eva.",
+    "„Der Arm ist {{de-0867|verletzt}}, aber der Knochen ist nicht {{de-0866|zerstört}}“, sagt der Arzt. Er {{de-0851|unterbricht}} mich, wenn ich frage.",
+    "Ich muss Karl ein Hemd {{de-0862|anziehen}} und die nasse Jacke {{de-0863|ausziehen}}. Er {{de-0877|friert}}. Ich {{de-0864|probiere}} die Suppe und {{de-0865|wechsle}} das Wasser.",
+    "Mila will mich {{de-0852|unterstützen}} und {{de-0853|begleiten}}. Sie will Brot {{de-0854|mitbringen}} und Medizin {{de-0855|abholen}}.",
+    "Ich kann nicht {{de-0861|einschlafen}}. Ich {{de-0859|träume}} von dem ersten Tag und muss früh {{de-0860|aufwachen}}. Ich {{de-0857|vermisse}} die Arbeit mit Karl und {{de-0858|wünsche}} mir Zeit. Ich will das Haus {{de-0856|behalten}}.",
+    "Das Bett steht {{de-0884|oben}}, die Küche ist {{de-0885|unten}}. {{de-0886|Vorn}} ist die Tür, {{de-0887|hinten}} der Hof. {{de-0888|Innen}} ist es warm, {{de-0889|außen}} kalt.",
+    "Der Arzt geht {{de-0882|links}}, ich gehe {{de-0883|rechts}}. Ich laufe {{de-0895|geradeaus}} und dann {{de-0896|herum}}, den Fluss {{de-0897|entlang}}. {{de-0898|Gegenüber}} von der Kirche ist ein Haus, und der Nachbar wohnt {{de-0899|nebenan}}.",
+    "{{de-0890|Überall}} sind Leute, aber die Medizin ist {{de-0891|nirgends}}. Sie ist {{de-0892|irgendwo}} in der Stadt. Der Arzt ist wieder {{de-0893|weg}}. Ich will die Arbeit {{de-0900|fortsetzen}}."
+  ],
+  "english": [
+    "Karl is suffering. He trembles and sweats. He coughs in the night and cannot breathe well.",
+    "I feel fear. I am startled when he calls out. Eva wants to calm and comfort him. She embraces him.",
+    "The doctor comes back. He wants to treat Karl and heal the wound. \"I will nurse him,\" says Eva.",
+    "\"The arm is injured, but the bone is not destroyed,\" says the doctor. He interrupts me when I ask.",
+    "I have to put a shirt on Karl and take off the wet jacket. He is freezing. I taste the soup and change the water.",
+    "Mila wants to support and accompany me. She wants to bring bread and collect medicine.",
+    "I cannot fall asleep. I dream of the first day and have to wake early. I miss the work with Karl and wish for time. I want to keep the house.",
+    "The bed is upstairs, the kitchen is downstairs. At the front is the door, at the back the yard. Inside it is warm, outside cold.",
+    "The doctor goes left, I go right. I walk straight ahead and then around, along the river. Opposite the church is a house, and the neighbour lives next door.",
+    "There are people everywhere, but the medicine is nowhere. It is somewhere in the city. The doctor is gone again. I want to continue the work."
+  ],
+  "grammar": {
+    "title": "wo or wohin: German distinguishes place from direction",
+    "body": "English says 'where' for both position and motion; German does not. The words in this chapter come in pairs, one for standing still and one for going. Get this wrong and you will be understood but marked as foreign immediately.",
+    "examples": [
+      { "de": "Das Bett steht oben. — Ich gehe nach oben.", "en": "The bed is upstairs. — I go upstairs." },
+      { "de": "Er ist hier. — Er kommt hierher.", "en": "He is here. — He comes here (to here)." },
+      { "de": "Ich laufe den Fluss entlang.", "en": "I walk along the river. (entlang follows its noun)" }
+    ]
+  },
+  "revise": [
+    { "wordId": "de-0869", "exampleDe": "„Ich werde ihn ___“, sagt Eva.", "exampleEn": "\"I will nurse him,\" says Eva." },
+    { "wordId": "de-0867", "exampleDe": "Der Arm ist ___.", "exampleEn": "The arm is injured." },
+    { "wordId": "de-0861", "exampleDe": "Ich kann nicht ___.", "exampleEn": "I cannot fall asleep." },
+    { "wordId": "de-0857", "exampleDe": "Ich ___ die Arbeit mit Karl.", "exampleEn": "I miss the work with Karl." },
+    { "wordId": "de-0878", "exampleDe": "Ich ___, wenn er ruft.", "exampleEn": "I am startled when he calls out." },
+    { "wordId": "de-0891", "exampleDe": "Die Medizin ist ___.", "exampleEn": "The medicine is nowhere." },
+    { "wordId": "de-0900", "exampleDe": "Ich will die Arbeit ___.", "exampleEn": "I want to continue the work." },
+    { "wordId": "de-0853", "exampleDe": "Mila will mich unterstützen und ___.", "exampleEn": "Mila wants to support and accompany me." }
+  ],
+  "tip": "Almost every verb here is something one person does for another: nursing, comforting, supporting, collecting. Jan arrived unable to ask for help; this is the chapter where he gives it.",
+  "showCounter": true
+}
