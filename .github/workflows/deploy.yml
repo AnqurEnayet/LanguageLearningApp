@@ -35,11 +35,8 @@ jobs:
       # prebuild validates content, postbuild writes the 404.html SPA fallback.
       - run: npm run build
 
-      # enablement turns Pages on for the repo on the first run, so there is no
-      # manual "set the Pages source" step in repo settings.
+      # Requires Settings > Pages > Source = "GitHub Actions" on the repo.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
